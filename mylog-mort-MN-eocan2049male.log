@@ -1,0 +1,88 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\2-extend-results\mylog-mort-MN-eocan2049male.log
+  log type:  text
+ opened on:  15 Sep 2026, 21:19:57
+
+. 
+. ***summary****
+. sum rate , det
+
+                            Rate
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            0              0
+ 5%            0              0
+10%            0              0       Obs                 609
+25%            0              0       Sum of wgt.         609
+
+50%     10.31938                      Mean           12.50465
+                        Largest       Std. dev.      12.65863
+75%      17.0097       69.90562
+90%     28.28854       72.67442       Variance        160.241
+95%     35.91954       73.50239       Skewness       1.860835
+99%     63.75518       83.40283       Kurtosis       8.330063
+
+. 
+. ***association between 1 SD increase in nitrogen and change in early-onset (20-49 incidence rate) - continuous rate variable
+. xtgee rate lagtotal_std i.id [fw=full_pop] ,  exposure(pop) corr(independent) vce(robust) 
+
+Iteration 1:  Tolerance = 7.215e-16
+
+GEE population-averaged model                    Number of obs    = 31,823,550
+Group variable: fipsno                           Number of groups =  5,303,925
+Family: Gaussian                                 Obs per group:  
+Link:   Identity                                              min =          6
+Correlation: independent                                      avg =        6.0
+                                                              max =          6
+                                                 Wald chi2(6)     =    1028923
+Scale parameter = 39.27646                       Prob > chi2      =     0.0000
+
+Pearson chi2(31823550) = 1.250e+09               Deviance         =  1.250e+09
+Dispersion (Pearson)   =  39.27646               Dispersion       =   39.27646
+
+                                 (Std. err. adjusted for clustering on fipsno)
+------------------------------------------------------------------------------
+             |               Robust
+        rate | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   .8464768   .0020863   405.73   0.000     .8423877    .8505659
+             |
+          id |
+          3  |  -.8989731   .0035626  -252.34   0.000    -.9059557   -.8919906
+          4  |   -.226824   .0033489   -67.73   0.000    -.2333878   -.2202603
+          5  |  -.9980837   .0037266  -267.83   0.000    -1.005388   -.9907797
+          6  |  -2.354097   .0034746  -677.52   0.000    -2.360907   -2.347287
+          7  |  -2.233815   .0030647  -728.87   0.000    -2.239822   -2.227808
+             |
+       _cons |   .5428441   .0028226   192.32   0.000     .5373119    .5483763
+     ln(pop) |          1  (exposure)
+------------------------------------------------------------------------------
+
+. 
+. margins , dydx(lagtotal_std)
+
+Average marginal effects                            Number of obs = 31,823,550
+Model VCE: Robust
+
+Expression: Linear prediction considering offset, predict()
+dy/dx wrt:  lagtotal_std
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      dy/dx   std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   .8464768   .0020863   405.73   0.000     .8423877    .8505659
+------------------------------------------------------------------------------
+
+. 
+. display 0.8464768/12.50465
+.06769296
+
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\2-extend-results\mylog-mort-MN-eocan2049male.log
+  log type:  text
+ closed on:  15 Sep 2026, 21:19:58
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

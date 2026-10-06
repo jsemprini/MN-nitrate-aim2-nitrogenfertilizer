@@ -1,0 +1,157 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\2-extend-results\mylog-mort-MN-pedcan04.log
+  log type:  text
+ opened on:  15 Sep 2026, 21:14:43
+
+. 
+. ***summary****
+. sum rate pedcan04, det
+
+                            Rate
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            0              0
+ 5%            0              0
+10%            0              0       Obs                 609
+25%            0              0       Sum of wgt.         609
+
+50%            0                      Mean            1.50937
+                        Largest       Std. dev.      6.899713
+75%            0       39.44773
+90%     2.644873       47.37091       Variance       47.60604
+95%     8.362602       73.58352       Skewness       8.427758
+99%     32.46753       99.40358       Kurtosis        95.4397
+
+                          pedcan04
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            0              0
+ 5%            0              0
+10%            0              0       Obs                 609
+25%            0              0       Sum of wgt.         609
+
+50%            0                      Mean           .1297209
+                        Largest       Std. dev.      .3362723
+75%            0              1
+90%            1              1       Variance        .113079
+95%            1              1       Skewness       2.204068
+99%            1              1       Kurtosis       5.857917
+
+. 
+. ****Association between 1 SD increase in nitrogen and P(ped can 0-4 age cancer in county****
+. xtgee pedcan04 lagtotal_std i.id [fw=full_pop] , family(binomial 1) link(probit) exposure(pop) corr(independent) vce(robust) 
+
+Iteration 1:  Tolerance = 1.008e-12
+
+GEE population-averaged model                    Number of obs    = 31,823,550
+Group variable: fipsno                           Number of groups =  5,303,925
+Family: Binomial                                 Obs per group:  
+Link:   Probit                                                min =          6
+Correlation: independent                                      avg =        6.0
+                                                              max =          6
+                                                 Wald chi2(6)     =    1698949
+Scale parameter = 1                              Prob > chi2      =     0.0000
+
+Pearson chi2(31823550) = 41470246                Deviance         =   23607680
+Dispersion (Pearson)   = 1.303131                Dispersion       =   .7418305
+
+                                 (Std. err. adjusted for clustering on fipsno)
+------------------------------------------------------------------------------
+             |             Semirobust
+    pedcan04 | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   .2593457   .0002616   991.55   0.000      .258833    .2598583
+             |
+          id |
+          3  |   .6163553   .0009822   627.55   0.000     .6144303    .6182803
+          4  |  -.1621494   .0012618  -128.50   0.000    -.1646226   -.1596763
+          5  |   .0496098   .0012077    41.08   0.000     .0472427    .0519769
+          6  |   .0576014   .0008776    65.64   0.000     .0558814    .0593214
+          7  |   .0505093   .0009001    56.11   0.000     .0487451    .0522735
+             |
+       _cons |   -10.3916   .0007488 -1.4e+04   0.000    -10.39307   -10.39013
+     ln(pop) |          1  (exposure)
+------------------------------------------------------------------------------
+
+. margins , dydx(lagtotal_std)
+
+Average marginal effects                            Number of obs = 31,823,550
+Model VCE: Semirobust
+
+Expression: Pr(pedcan04 != 0) considering offset, predict()
+dy/dx wrt:  lagtotal_std
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      dy/dx   std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   .0522548    .000056   932.43   0.000     .0521449    .0523646
+------------------------------------------------------------------------------
+
+. 
+. 
+. 
+. ***association between 1 SD increase in nitrogen and change in pediatric (0-4 incidence rate) - continuous rate variable
+. xtgee rate lagtotal_std i.id [fw=full_pop] ,  exposure(pop) corr(independent) vce(robust) 
+
+Iteration 1:  Tolerance = 4.077e-15
+
+GEE population-averaged model                    Number of obs    = 31,823,550
+Group variable: fipsno                           Number of groups =  5,303,925
+Family: Gaussian                                 Obs per group:  
+Link:   Identity                                              min =          6
+Correlation: independent                                      avg =        6.0
+                                                              max =          6
+                                                 Wald chi2(6)     =    1250852
+Scale parameter = 18.47721                       Prob > chi2      =     0.0000
+
+Pearson chi2(31823550) = 5.880e+08               Deviance         =  5.880e+08
+Dispersion (Pearson)   =  18.47721               Dispersion       =   18.47721
+
+                                 (Std. err. adjusted for clustering on fipsno)
+------------------------------------------------------------------------------
+             |               Robust
+        rate | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   .7766183   .0010837   716.63   0.000     .7744943    .7787423
+             |
+          id |
+          3  |   .4755235   .0033571   141.65   0.000     .4689438    .4821033
+          4  |  -.8670554   .0025592  -338.80   0.000    -.8720713   -.8620396
+          5  |  -.3307661   .0028515  -116.00   0.000    -.3363551   -.3251772
+          6  |  -.7970975   .0024899  -320.14   0.000    -.8019775   -.7922174
+          7  |  -1.058873   .0024903  -425.20   0.000    -1.063754   -1.053992
+             |
+       _cons |  -7.892054   .0021789 -3622.07   0.000    -7.896324   -7.887783
+     ln(pop) |          1  (exposure)
+------------------------------------------------------------------------------
+
+. 
+. margins , dydx(lagtotal_std)
+
+Average marginal effects                            Number of obs = 31,823,550
+Model VCE: Robust
+
+Expression: Linear prediction considering offset, predict()
+dy/dx wrt:  lagtotal_std
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      dy/dx   std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   .7766183   .0010837   716.63   0.000     .7744943    .7787423
+------------------------------------------------------------------------------
+
+. 
+. ****relative association from mean rate 
+. display 0.7766183/1.50937
+.51453143
+
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\2-extend-results\mylog-mort-MN-pedcan04.log
+  log type:  text
+ closed on:  15 Sep 2026, 21:14:46
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,88 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\2-extend-results\mylog-mort-MN-tradcan50plusfemale.log
+  log type:  text
+ opened on:  15 Sep 2026, 21:26:27
+
+. 
+. ***summary****
+. sum rate , det
+
+                            Rate
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%      67.2495       35.89375
+ 5%     108.8954       44.11116
+10%     121.7471       46.14675       Obs                 609
+25%     151.2287       52.00208       Sum of wgt.         609
+
+50%     185.8544                      Mean           191.5694
+                        Largest       Std. dev.       60.8659
+75%     223.9474       409.5563
+90%     269.4715       414.4919       Variance       3704.658
+95%     300.1715       435.7299       Skewness       .7687413
+99%     396.5631       444.0059       Kurtosis       4.488009
+
+. 
+. ***association between 1 SD increase in nitrogen and change in early-onset (20-49 incidence rate) - continuous rate variable
+. xtgee rate lagtotal_std i.id [fw=full_pop] ,  exposure(pop) corr(independent) vce(robust) 
+
+Iteration 1:  Tolerance = 6.212e-14
+
+GEE population-averaged model                    Number of obs    = 31,823,550
+Group variable: fipsno                           Number of groups =  5,303,925
+Family: Gaussian                                 Obs per group:  
+Link:   Identity                                              min =          6
+Correlation: independent                                      avg =        6.0
+                                                              max =          6
+                                                 Wald chi2(6)     =   2.20e+07
+Scale parameter = 1038.202                       Prob > chi2      =     0.0000
+
+Pearson chi2(31823550) = 3.304e+10               Deviance         =  3.304e+10
+Dispersion (Pearson)   =  1038.202               Dispersion       =   1038.202
+
+                                 (Std. err. adjusted for clustering on fipsno)
+------------------------------------------------------------------------------
+             |               Robust
+        rate | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   8.637354   .0132241   653.15   0.000     8.611435    8.663273
+             |
+          id |
+          3  |  -7.564782   .0182646  -414.18   0.000     -7.60058   -7.528984
+          4  |  -18.20818   .0164892 -1104.25   0.000     -18.2405   -18.17586
+          5  |  -31.09689   .0165463 -1879.39   0.000    -31.12932   -31.06446
+          6  |  -56.23182   .0191922 -2929.94   0.000    -56.26944   -56.19421
+          7  |  -58.15449   .0160247 -3629.05   0.000     -58.1859   -58.12309
+             |
+       _cons |   187.6752   .0174663  1.1e+04   0.000      187.641    187.7094
+     ln(pop) |          1  (exposure)
+------------------------------------------------------------------------------
+
+. 
+. margins , dydx(lagtotal_std)
+
+Average marginal effects                            Number of obs = 31,823,550
+Model VCE: Robust
+
+Expression: Linear prediction considering offset, predict()
+dy/dx wrt:  lagtotal_std
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      dy/dx   std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   8.637354   .0132241   653.15   0.000     8.611435    8.663273
+------------------------------------------------------------------------------
+
+. 
+. display 8.637354/ 191.5694
+.04508734
+
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\2-extend-results\mylog-mort-MN-tradcan50plusfemale.log
+  log type:  text
+ closed on:  15 Sep 2026, 21:26:28
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,188 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\1-replicate-results\mylog-mort-MN.log
+  log type:  text
+ opened on:  15 Sep 2026, 21:09:01
+
+. 
+. ***summary****
+. sum pedpop pedbcn pedbcrate population rate total_n lag2_total lag_total, det
+
+                           Ped-Pop
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%          109             93
+ 5%          158             94
+10%          215             94       Obs                 609
+25%          369             96       Sum of wgt.         609
+
+50%          813                      Mean           2307.163
+                        Largest       Std. dev.      5838.879
+75%         1561          47277
+90%         5025          47829       Variance       3.41e+07
+95%         8360          48153       Skewness       5.826706
+99%        44357          48499       Kurtosis       41.53948
+
+                         Ped BC - N
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            0              0
+ 5%            0              0
+10%            0              0       Obs                 609
+25%            0              0       Sum of wgt.         609
+
+50%            0                      Mean            .001642
+                        Largest       Std. dev.       .040522
+75%            0              0
+90%            0              0       Variance        .001642
+95%            0              0       Skewness        24.6171
+99%            0              1       Kurtosis       607.0016
+
+                        Ped BC - Rate
+-------------------------------------------------------------
+no observations
+
+                      (mean) population
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%         3558           3558
+ 5%         5176           3558
+10%         6018           3558       Obs                 609
+25%        10866           3558       Sum of wgt.         609
+
+50%        21676                      Mean           60964.66
+                        Largest       Std. dev.        143194
+75%        44442        1152425
+90%       129928        1152425       Variance       2.05e+10
+95%       238136        1152425       Skewness       5.699576
+99%      1152425        1152425       Kurtosis       40.57907
+
+                            rate
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%            0              0
+ 5%            0              0
+10%            0              0       Obs                 609
+25%            0              0       Sum of wgt.         609
+
+50%            0                      Mean           5.20e-07
+                        Largest       Std. dev.      .0000128
+75%            0              0
+90%            0              0       Variance       1.65e-10
+95%            0              0       Skewness        24.6171
+99%            0       .0003167       Kurtosis       607.0016
+
+                           total_n
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%         9845           6660
+ 5%      1076049           7034
+10%      2259619           7355       Obs                 609
+25%      8211109           7381       Sum of wgt.         609
+
+50%     1.95e+07                      Mean           2.05e+07
+                        Largest       Std. dev.      1.45e+07
+75%     3.03e+07       6.76e+07
+90%     3.94e+07       7.64e+07       Variance       2.11e+14
+95%     4.35e+07       7.70e+07       Skewness       .7538316
+99%     6.50e+07       7.95e+07       Kurtosis       3.788917
+
+                         lag2_total
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%         9845           6660
+ 5%      1099535           7034
+10%      2532948           7965       Obs                 435
+25%      8269843           8281       Sum of wgt.         435
+
+50%     1.91e+07                      Mean           2.04e+07
+                        Largest       Std. dev.      1.46e+07
+75%     2.98e+07       6.76e+07
+90%     3.91e+07       7.64e+07       Variance       2.12e+14
+95%     4.35e+07       7.70e+07       Skewness         .84141
+99%     6.56e+07       7.95e+07       Kurtosis       4.091607
+
+                          lag_total
+-------------------------------------------------------------
+      Percentiles      Smallest
+ 1%         9845           6660
+ 5%      1099535           7034
+10%      2363796           7355       Obs                 522
+25%      8211109           7965       Sum of wgt.         522
+
+50%     1.93e+07                      Mean           2.03e+07
+                        Largest       Std. dev.      1.45e+07
+75%     2.99e+07       6.76e+07
+90%     3.91e+07       7.64e+07       Variance       2.10e+14
+95%     4.34e+07       7.70e+07       Skewness       .7941288
+99%     6.47e+07       7.95e+07       Kurtosis       3.942859
+
+. 
+. ****Association between 1 SD increase in nitrogen and P(infant BCNS in county****
+. xtgee infant lagtotal_std i.id [fw=pop] , family(binomial 1) link(probit) exposure(pedpop) corr(independent) vce(robust) 
+note: 2.id != 0 predicts failure perfectly;
+      2.id omitted and 87 obs not used.
+
+note: 3.id != 1 predicts failure perfectly;
+      3.id omitted and 348 obs not used.
+
+note: 4.id omitted because of collinearity.
+note: 5.id omitted because of collinearity.
+note: 6.id omitted because of collinearity.
+note: 7.id omitted because of collinearity.
+
+Iteration 1:  Tolerance = 9.076e-09
+
+GEE population-averaged model                     Number of obs    = 5,303,925
+Group variable: fipsno                            Number of groups = 5,303,925
+Family: Binomial                                  Obs per group:  
+Link:   Probit                                                 min =         1
+Correlation: independent                                       avg =       1.0
+                                                               max =         1
+                                                  Wald chi2(1)     =   2853413
+Scale parameter = 1                               Prob > chi2      =    0.0000
+
+Pearson chi2(5303925) = 6.814e+08                 Deviance         = 2008536.9
+Dispersion (Pearson)  =   128.473                 Dispersion       =  .3786888
+
+                                 (Std. err. adjusted for clustering on fipsno)
+------------------------------------------------------------------------------
+             |             Semirobust
+  infantbcsn | Coefficient  std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   .7452581   .0004412  1689.20   0.000     .7443934    .7461229
+             |
+          id |
+          2  |          0  (empty)
+          3  |          0  (omitted)
+          4  |          0  (empty)
+          5  |          0  (empty)
+          6  |          0  (empty)
+          7  |          0  (empty)
+             |
+       _cons |  -11.40828    .001882 -6061.91   0.000    -11.41197    -11.4046
+  ln(pedpop) |          1  (exposure)
+------------------------------------------------------------------------------
+
+. margins , dydx(lagtotal_std)
+
+Average marginal effects                             Number of obs = 5,303,925
+Model VCE: Semirobust
+
+Expression: Pr(infantbcsn != 0) considering offset, predict()
+dy/dx wrt:  lagtotal_std
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      dy/dx   std. err.      z    P>|z|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+lagtotal_std |   .0443098   .0001079   410.76   0.000     .0440984    .0445212
+------------------------------------------------------------------------------
+
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\1-replicate-results\mylog-mort-MN.log
+  log type:  text
+ closed on:  15 Sep 2026, 21:09:02
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
