@@ -1,0 +1,956 @@
+Geo ID,Water Source,County
+MN1860017,Groundwater,Wright
+MN1570005,Groundwater,Pennington
+MN1540001,Groundwater,Norman
+MN1500001,Groundwater,Mower
+MN1530001,Groundwater,Nobles
+MN1010001,Groundwater,Aitkin
+MN1290001,Groundwater,Hubbard
+MN1730001,Groundwater,Stearns
+MN1240001,Groundwater,Freeborn
+MN1750001,Purchased Groundwater,Stevens
+MN1240004,Groundwater,Freeborn
+MN1210001,Groundwater,Douglas
+MN1320001,Groundwater,Jackson
+MN1850018,Groundwater,Winona
+MN1450001,Purchased Groundwater,Marshall
+MN1070001,Groundwater,Blue Earth
+MN1680011,Groundwater,Roseau
+MN1390002,Groundwater,Lake of the Woods
+MN1020034,Groundwater,Anoka
+MN1860002,Groundwater,Wright
+MN1020001,Groundwater,Anoka
+MN1190001,Groundwater,Dakota
+MN1760001,Groundwater,Swift
+MN1410006,Purchased Groundwater,Lincoln
+MN1620001,Purchased Surface Water,Ramsey
+MN1450002,Groundwater,Marshall
+MN1720001,Groundwater,Sibley
+MN1260001,Groundwater,Grant
+MN1580001,Groundwater,Pine
+MN1340001,Groundwater,Kandiyohi
+MN1030001,Groundwater,Becker
+MN1690002,Surface Water,St. Louis
+MN1500003,Groundwater,Mower
+MN1500002,Groundwater,Mower
+MN1510001,Groundwater,Murray
+MN1730002,Groundwater,Stearns
+MN1690003,Groundwater,St. Louis
+MN1110002,Groundwater,Cass
+MN1680001,Groundwater,Roseau
+MN1150001,Groundwater,Clearwater
+MN1420001,Groundwater,Lyon
+MN1020014,Groundwater,Anoka
+MN1020040,Groundwater,Anoka
+MN1140001,Groundwater,Clay
+MN1090001,Groundwater,Carlton
+MN1260002,Groundwater,Grant
+MN1570004,Groundwater,Pennington
+MN1560004,Groundwater,Otter Tail
+MN1560001,Groundwater,Otter Tail
+MN1390001,Groundwater,Lake of the Woods
+MN1010002,Groundwater,Aitkin
+MN1180027,Groundwater,Crow Wing
+MN1820036,Groundwater,Washington
+MN1820001,Groundwater,Washington
+MN1060002,Groundwater,Big Stone
+MN1380001,Surface Water,Lake
+MN1710008,Groundwater,Sherburne
+MN1440001,Groundwater,Mahnomen
+MN1730030,Groundwater,Stearns
+MN1730004,Groundwater,Stearns
+MN1700001,Groundwater,Scott
+MN1250006,Groundwater,Goodhue
+MN1370001,Groundwater,Lac qui Parle
+MN1600014,Groundwater,Polk
+MN1640001,Groundwater,Redwood
+MN1040002,Groundwater,Beltrami
+MN1760008,Groundwater,Swift
+MN1050009,Groundwater,Benton
+MN1770001,Groundwater,Todd
+MN1850001,Groundwater,Winona
+MN1360001,Groundwater,Koochiching
+MN1710002,Groundwater,Sherburne
+MN1730038,Groundwater,Stearns
+MN1060009,Groundwater,Big Stone
+MN1530002,Purchased Groundwater,Nobles
+MN1310001,Groundwater,Itasca
+MN1170008,Groundwater,Cottonwood
+MN1040007,Groundwater,Beltrami
+MN1130019,Groundwater,Chisago
+MN1820003,Purchased Groundwater,Washington
+MN1650001,Groundwater,Renville
+MN1430001,Groundwater,McLeod
+MN1690004,Surface Water,St. Louis
+MN1040014,Groundwater,Beltrami
+MN1020006,Groundwater,Anoka
+MN1340002,Groundwater,Kandiyohi
+MN1740001,Groundwater,Steele
+MN1270001,Purchased Surface Water,Hennepin
+MN1220001,Groundwater,Faribault
+MN1130010,Groundwater,Chisago
+MN1180041,Groundwater,Crow Wing
+MN1480016,Groundwater,Mille Lacs
+MN1700012,Groundwater,Scott
+MN1540002,Groundwater,Norman
+MN1310003,Groundwater,Itasca
+MN1490009,Groundwater,Morrison
+MN1370002,Purchased Groundwater,Lac qui Parle
+MN1300001,Groundwater,Isanti
+MN1180002,Groundwater,Crow Wing
+MN1210009,Groundwater,Douglas
+MN1030022,Groundwater,Becker
+MN1840002,Groundwater,Wilkin
+MN1690045,Groundwater,St. Louis
+MN1530003,Purchased Groundwater,Nobles
+MN1550035,Groundwater,Olmsted
+MN1220002,Groundwater,Faribault
+MN1580017,Groundwater,Pine
+MN1700016,Groundwater,Scott
+MN1270004,Groundwater,Hennepin
+MN1270005,Groundwater,Hennepin
+MN1620021,Groundwater,Ramsey
+MN1730005,Groundwater,Stearns
+MN1770002,Groundwater,Todd
+MN1780001,Groundwater,Traverse
+MN1500017,Groundwater,Mower
+MN1430002,Groundwater,McLeod
+MN1490001,Groundwater,Morrison
+MN1650003,Groundwater,Renville
+MN1860005,Groundwater,Wright
+MN1690006,Groundwater,St. Louis
+MN1190002,Surface Water,Dakota
+MN1830001,Purchased Groundwater,Watonwan
+MN1550001,Groundwater,Olmsted
+MN1280002,Groundwater,Houston
+MN1030004,Groundwater,Becker
+MN1310004,Groundwater,Itasca
+MN1300002,Groundwater,Isanti
+MN1840003,Groundwater,Wilkin
+MN1870001,Groundwater,Yellow Medicine
+MN1250001,Groundwater,Goodhue
+MN1230001,Groundwater,Fillmore
+MN1660013,Groundwater,Rice
+MN1210010,Groundwater,Douglas
+MN1090003,Groundwater,Carlton
+MN1100017,Groundwater,Carver
+MN1110006,Groundwater,Cass
+MN1680013,Groundwater,Roseau
+MN1820021,Groundwater,Washington
+MN1020011,Groundwater,Anoka
+MN1020010,Groundwater,Anoka
+MN1130001,Groundwater,Chisago
+MN1020036,Groundwater,Anoka
+MN1460001,Groundwater,Martin
+MN1270006,Groundwater,Hennepin
+MN1510002,Groundwater,Murray
+MN1100001,Groundwater,Carver
+MN1100002,Groundwater,Carver
+MN1230002,Groundwater,Fillmore
+MN1180028,Groundwater,Crow Wing
+MN1550020,Groundwater,Olmsted
+MN1130003,Groundwater,Chisago
+MN1690007,Surface Water,St. Louis
+MN1750002,Groundwater,Stevens
+MN1550005,Groundwater,Olmsted
+MN1820010,Groundwater,Washington
+MN1020013,Groundwater,Anoka
+MN1500021,Groundwater,Mower
+MN1120001,Groundwater,Chippewa
+MN1200001,Groundwater,Dodge
+MN1770003,Groundwater,Todd
+MN1870002,Groundwater,Yellow Medicine
+MN1240005,Groundwater,Freeborn
+MN1710009,Groundwater,Sherburne
+MN1150003,Groundwater,Clearwater
+MN1730012,Groundwater,Stearns
+MN1730052,Groundwater,Stearns
+MN1550009,Groundwater,Olmsted
+MN1860025,Groundwater,Wright
+MN1640002,Groundwater,Redwood
+MN1400001,Groundwater,Le Sueur
+MN1600001,Purchased Groundwater,Polk
+MN1060003,Groundwater,Big Stone
+MN1090005,Groundwater,Carlton
+MN1080010,Groundwater,Brown
+MN1310035,Groundwater,Itasca
+MN1860006,Groundwater,Wright
+MN1730006,Groundwater,Stearns
+MN1310006,Groundwater,Itasca
+MN1730034,Groundwater,Stearns
+MN1100004,Groundwater,Carver
+MN1020016,Purchased Surface Water,Anoka
+MN1020043,Groundwater,Anoka
+MN1080001,Groundwater,Brown
+MN1140002,Groundwater,Clay
+MN1240006,Groundwater,Freeborn
+MN1690009,Groundwater,St. Louis
+MN1020017,Groundwater,Anoka
+MN1270075,Purchased Groundwater,Hennepin
+MN1060004,Groundwater,Big Stone
+MN1470011,Groundwater,Meeker
+MN1040036,Groundwater,Beltrami
+MN1820004,Groundwater,Washington
+MN1420002,Groundwater,Lyon
+MN1310010,Groundwater,Itasca
+MN1570006,Groundwater,Pennington
+MN1550002,Groundwater,Olmsted
+MN1040033,Groundwater,Beltrami
+MN1270066,Groundwater,Hennepin
+MN1520001,Groundwater,Nicollet
+MN1730060,Groundwater,Stearns
+MN1090007,Groundwater,Carlton
+MN1600002,Groundwater,Polk
+MN1180008,Groundwater,Crow Wing
+MN1580023,Groundwater,Pine
+MN1180030,Groundwater,Crow Wing
+MN1100015,Groundwater,Carver
+MN1270008,Purchased Surface Water,Hennepin
+MN1510003,Groundwater,Murray
+MN1270076,Groundwater,Hennepin
+MN1180011,Groundwater,Crow Wing
+MN1610001,Groundwater,Pope
+MN1560008,Groundwater,Otter Tail
+MN1650004,Groundwater,Renville
+MN1830002,Purchased Groundwater,Watonwan
+MN1470002,Groundwater,Meeker
+MN1470003,Groundwater,Meeker
+MN1370003,Groundwater,Lac qui Parle
+MN1270073,Groundwater,Hennepin
+MN1560007,Groundwater,Otter Tail
+MN1310007,Groundwater,Itasca
+MN1180040,Groundwater,Crow Wing
+MN1180012,Groundwater,Crow Wing
+MN1760004,Groundwater,Swift
+MN1860007,Groundwater,Wright
+MN1220003,Groundwater,Faribault
+MN1170010,Purchased Groundwater,Cottonwood
+MN1250021,Groundwater,Goodhue
+MN1030005,Groundwater,Becker
+MN1500006,Groundwater,Mower
+MN1140003,Purchased Surface Water,Clay
+MN1860003,Groundwater,Wright
+MN1200002,Groundwater,Dodge
+MN1750003,Groundwater,Stevens
+MN1550004,Groundwater,Olmsted
+MN1510010,Purchased Groundwater,Murray
+MN1690011,Surface Water,St. Louis
+MN1780002,Groundwater,Traverse
+MN1660015,Groundwater,Rice
+MN1530004,Purchased Groundwater,Nobles
+MN1460002,Groundwater,Martin
+MN1190007,Groundwater,Dakota
+MN1210023,Groundwater,Douglas
+MN1820034,Groundwater,Washington
+MN1770004,Groundwater,Todd
+MN1070002,Groundwater,Blue Earth
+MN1020042,Groundwater,Anoka
+MN1600004,Surface Water,Polk
+MN1111112,Groundwater,Cass
+MN1220005,Groundwater,Faribault
+MN1870003,Purchased Groundwater,Yellow Medicine
+MN1270010,Groundwater,Hennepin
+MN1470012,Groundwater,Meeker
+MN1590001,Groundwater,Pipestone
+MN1270011,Groundwater,Hennepin
+MN1280003,Groundwater,Houston
+MN1850003,Groundwater,Winona
+MN1260003,Groundwater,Grant
+MN1790001,Groundwater,Wabasha
+MN1560028,Groundwater,Otter Tail
+MN1710004,Groundwater,Sherburne
+MN1700029,Groundwater,Scott
+MN1500007,Groundwater,Mower
+MN1740003,Groundwater,Steele
+MN1530005,Purchased Surface Water,Nobles
+MN1220004,Groundwater,Faribault
+MN1040001,Groundwater,Beltrami
+MN1690014,Surface Water,St. Louis
+MN1400003,Groundwater,Le Sueur
+MN1240007,Groundwater,Freeborn
+MN1190031,Groundwater,Dakota
+MN1190009,Groundwater,Dakota
+MN1700015,Groundwater,Scott
+MN1600005,Groundwater,Polk
+MN1080009,Purchased Groundwater,Brown
+MN1210013,Groundwater,Douglas
+MN1690018,Surface Water,St. Louis
+MN1730059,Groundwater,Stearns
+MN1270012,Groundwater,Hennepin
+MN1550006,Groundwater,Olmsted
+MN1650005,Groundwater,Renville
+MN1460003,Surface Water,Martin
+MN1420012,Purchased Groundwater,Lyon
+MN1660002,Groundwater,Rice
+MN1190008,Groundwater,Dakota
+MN1690058,Purchased Surface Water,St. Louis
+MN1580012,Groundwater,Pine
+MN1140012,Groundwater,Clay
+MN1560014,Surface Water,Otter Tail
+MN1600008,Groundwater,Polk
+MN1580002,Groundwater,Pine
+MN1050005,Groundwater,Benton
+MN1600009,Purchased Groundwater,Polk
+MN1620017,Groundwater,Ramsey
+MN1020002,Groundwater,Anoka
+MN1540011,Groundwater,Norman
+MN1690048,Groundwater,St. Louis
+MN1420003,Purchased Groundwater,Lyon
+MN1050001,Groundwater,Benton
+MN1690008,Groundwater,St. Louis
+MN1820005,Groundwater,Washington
+MN1480014,Groundwater,Mille Lacs
+MN1600010,Groundwater,Polk
+MN1230003,Groundwater,Fillmore
+MN1650006,Groundwater,Renville
+MN1030014,Groundwater,Becker
+MN1240008,Groundwater,Freeborn
+MN1730013,Groundwater,Stearns
+MN1020007,Groundwater,Anoka
+MN1020031,Groundwater,Anoka
+MN1220007,Groundwater,Faribault
+MN1510005,Groundwater,Murray
+MN1210021,Groundwater,Douglas
+MN1180016,Groundwater,Crow Wing
+MN1420011,Purchased Groundwater,Lyon
+MN1540010,Groundwater,Norman
+MN1720002,Groundwater,Sibley
+MN1240009,Groundwater,Freeborn
+MN1290013,Groundwater,Hubbard
+MN1140014,Groundwater,Clay
+MN1420004,Purchased Groundwater,Lyon
+MN1720004,Groundwater,Sibley
+MN1690020,Groundwater,St. Louis
+MN1340021,Groundwater,Kandiyohi
+MN1430003,Groundwater,McLeod
+MN1240010,Groundwater,Freeborn
+MN1610003,Groundwater,Pope
+MN1140005,Groundwater,Clay
+MN1180038,Groundwater,Crow Wing
+MN1270014,Purchased Surface Water,Hennepin
+MN1150005,Groundwater,Clearwater
+MN1070005,Groundwater,Blue Earth
+MN1250022,Groundwater,Goodhue
+MN1250005,Groundwater,Goodhue
+MN1570001,Groundwater,Pennington
+MN1850012,Groundwater,Winona
+MN1060005,Groundwater,Big Stone
+MN1460004,Groundwater,Martin
+MN1160001,Surface Water,Cook
+MN1500008,Groundwater,Mower
+MN1310011,Groundwater,Itasca
+MN1870004,Groundwater,Yellow Medicine
+MN1040030,Groundwater,Beltrami
+MN1480004,Groundwater,Mille Lacs
+MN1720005,Groundwater,Sibley
+MN1850005,Groundwater,Winona
+MN1680002,Groundwater,Roseau
+MN1270074,Groundwater,Hennepin
+MN1230004,Groundwater,Fillmore
+MN1770005,Groundwater,Todd
+MN1020005,Groundwater,Anoka
+MN1470007,Groundwater,Meeker
+MN1730061,Groundwater,Stearns
+MN1450003,Groundwater,Marshall
+MN1110008,Groundwater,Cass
+MN1510006,Groundwater,Murray
+MN1550029,Groundwater,Olmsted
+MN1350001,Purchased Groundwater,Kittson
+MN1540003,Groundwater,Norman
+MN1020041,Groundwater,Anoka
+MN1100005,Groundwater,Carver
+MN1790002,Groundwater,Wabasha
+MN1190010,Groundwater,Dakota
+MN1750004,Groundwater,Stevens
+MN1870005,Groundwater,Yellow Medicine
+MN1080002,Groundwater,Brown
+MN1670002,Groundwater,Rock
+MN1230005,Groundwater,Fillmore
+MN1130005,Groundwater,Chisago
+MN1240011,Groundwater,Freeborn
+MN1190012,Groundwater,Dakota
+MN1590011,Purchased Groundwater,Pipestone
+MN1500023,Groundwater,Mower
+MN1140006,Groundwater,Clay
+MN1200004,Groundwater,Dodge
+MN1240012,Groundwater,Freeborn
+MN1870011,Purchased Groundwater,Yellow Medicine
+MN1590012,Groundwater,Pipestone
+MN1650009,Groundwater,Renville
+MN1720006,Groundwater,Sibley
+MN1410001,Groundwater,Lincoln
+MN1540004,Groundwater,Norman
+MN1560016,Groundwater,Otter Tail
+MN1260005,Groundwater,Grant
+MN1690043,Purchased Surface Water,St. Louis
+MN1320002,Groundwater,Jackson
+MN1770015,Groundwater,Todd
+MN1210002,Groundwater,Douglas
+MN1790016,Groundwater,Wabasha
+MN1690022,Groundwater,St. Louis
+MN1850017,Groundwater,Winona
+MN1010011,Groundwater,Aitkin
+MN1070012,Groundwater,Blue Earth
+MN1180042,Groundwater,Crow Wing
+MN1670003,Purchased Groundwater,Rock
+MN1820026,Groundwater,Washington
+MN1020033,Purchased Surface Water,Anoka
+MN1580005,Groundwater,Pine
+MN1140007,Groundwater,Clay
+MN1260006,Groundwater,Grant
+MN1280004,Groundwater,Houston
+MN1730014,Groundwater,Stearns
+MN1590010,Purchased Groundwater,Pipestone
+MN1240013,Groundwater,Freeborn
+MN1760005,Groundwater,Swift
+MN1450013,Groundwater,Marshall
+MN1740004,Groundwater,Steele
+MN1270016,Groundwater,Hennepin
+MN1280005,Groundwater,Houston
+MN1860010,Groundwater,Wright
+MN1690028,Surface Water,St. Louis
+MN1820008,Groundwater,Washington
+MN1820007,Groundwater,Washington
+MN1220012,Groundwater,Faribault
+MN1430004,Groundwater,McLeod
+MN1590003,Purchased Groundwater,Pipestone
+MN1820028,Groundwater,Washington
+MN1360002,Surface Water,Koochiching
+MN1190014,Groundwater,Dakota
+MN1510007,Groundwater,Murray
+MN1690029,Groundwater,St. Louis
+MN1180017,Groundwater,Crow Wing
+MN1300006,Groundwater,Isanti
+MN1300005,Groundwater,Isanti
+MN1480001,Groundwater,Mille Lacs
+MN1410002,Purchased Groundwater,Lincoln
+MN1700011,Groundwater,Scott
+MN1820035,Groundwater,Washington
+MN1320003,Groundwater,Jackson
+MN1810001,Groundwater,Waseca
+MN1590004,Purchased Groundwater,Pipestone
+MN1170002,Groundwater,Cottonwood
+MN1140016,Groundwater,Clay
+MN1060006,Groundwater,Big Stone
+MN1860024,Groundwater,Wright
+MN1700003,Groundwater,Scott
+MN1110035,Groundwater,Cass
+MN1340003,Groundwater,Kandiyohi
+MN1350002,Groundwater,Kittson
+MN1400005,Groundwater,Le Sueur
+MN1200005,Groundwater,Dodge
+MN1310021,Groundwater,Itasca
+MN1040017,Groundwater,Beltrami
+MN1790003,Groundwater,Wabasha
+MN1350003,Purchased Groundwater,Kittson
+MN1670008,Purchased Groundwater,Rock
+MN1210017,Groundwater,Douglas
+MN1840004,Groundwater,Wilkin
+MN1250007,Groundwater,Goodhue
+MN1760006,Groundwater,Swift
+MN1090008,Groundwater,Carlton
+MN1220008,Groundwater,Faribault
+MN1400007,Groundwater,Le Sueur
+MN1730015,Groundwater,Stearns
+MN1550031,Groundwater,Olmsted
+MN1690031,Groundwater,St. Louis
+MN1350006,Groundwater,Kittson
+MN1520007,Groundwater,Nicollet
+MN1180045,Groundwater,Crow Wing
+MN1030010,Groundwater,Becker
+MN1280007,Groundwater,Houston
+MN1520002,Groundwater,Nicollet
+MN1050011,Groundwater,Benton
+MN1410003,Purchased Groundwater,Lincoln
+MN1350004,Purchased Groundwater,Kittson
+MN1790004,Groundwater,Wabasha
+MN1070006,Groundwater,Blue Earth
+MN1820009,Groundwater,Washington
+MN1340004,Groundwater,Kandiyohi
+MN1210024,Groundwater,Douglas
+MN1030016,Groundwater,Becker
+MN1510008,Groundwater,Murray
+MN1320004,Groundwater,Jackson
+MN1820029,Groundwater,Washington
+MN1400019,Groundwater,Le Sueur
+MN1310013,Groundwater,Itasca
+MN1190015,Groundwater,Dakota
+MN1680008,Groundwater,Roseau
+MN1640003,Groundwater,Redwood
+MN1350005,Purchased Groundwater,Kittson
+MN1230006,Groundwater,Fillmore
+MN1500022,Groundwater,Mower
+MN1290012,Groundwater,Hubbard
+MN1310038,Purchased Groundwater,Itasca
+MN1830009,Groundwater,Watonwan
+MN1180005,Groundwater,Crow Wing
+MN1740006,Groundwater,Steele
+MN1400008,Groundwater,Le Sueur
+MN1530006,Purchased Groundwater,Nobles
+MN1500009,Groundwater,Mower
+MN1430006,Groundwater,McLeod
+MN1400010,Groundwater,Le Sueur
+MN1850006,Groundwater,Winona
+MN1830003,Purchased Groundwater,Watonwan
+MN1190022,Groundwater,Dakota
+MN1020032,Groundwater,Anoka
+MN1130024,Groundwater,Chisago
+MN1340015,Groundwater,Kandiyohi
+MN1410007,Purchased Surface Water,Lincoln
+MN1130007,Groundwater,Chisago
+MN1020023,Groundwater,Anoka
+MN1060010,Groundwater,Big Stone
+MN1530007,Purchased Groundwater,Nobles
+MN1470008,Groundwater,Meeker
+MN1620005,Purchased Surface Water,Ramsey
+MN1490002,Groundwater,Morrison
+MN1360004,Groundwater,Koochiching
+MN1270018,Groundwater,Hennepin
+MN1770007,Groundwater,Todd
+MN1660006,Groundwater,Rice
+MN1270019,Groundwater,Hennepin
+MN1610007,Groundwater,Pope
+MN1640004,Groundwater,Redwood
+MN1670004,Groundwater,Rock
+MN1500011,Groundwater,Mower
+MN1420005,Purchased Groundwater,Lyon
+MN1230007,Groundwater,Fillmore
+MN1830004,Groundwater,Watonwan
+MN1070007,Groundwater,Blue Earth
+MN1370004,Groundwater,Lac qui Parle
+MN1670005,Purchased Surface Water,Rock
+MN1440002,Groundwater,Mahnomen
+MN1820013,Groundwater,Washington
+MN1020038,Groundwater,Anoka
+MN1240014,Groundwater,Freeborn
+MN1070009,Groundwater,Blue Earth
+MN1200006,Groundwater,Dodge
+MN1270020,Groundwater,Hennepin
+MN1270015,Groundwater,Hennepin
+MN1860011,Groundwater,Wright
+MN1270021,Groundwater,Hennepin
+MN1070013,Groundwater,Blue Earth
+MN1500013,Groundwater,Mower
+MN1310023,Groundwater,Itasca
+MN1820033,Groundwater,Washington
+MN1450005,Groundwater,Marshall
+MN1420006,Groundwater,Lyon
+MN1100006,Groundwater,Carver
+MN1120002,Groundwater,Chippewa
+MN1790009,Groundwater,Wabasha
+MN1010016,Groundwater,Aitkin
+MN1600011,Groundwater,Polk
+MN1690033,Purchased Groundwater,St. Louis
+MN1690034,Groundwater,St. Louis
+MN1740005,Groundwater,Steele
+MN1270023,Groundwater,Hennepin
+MN1730016,Groundwater,Stearns
+MN1800001,Groundwater,Wadena
+MN1450006,Groundwater,Marshall
+MN1480002,Groundwater,Mille Lacs
+MN1120003,Groundwater,Chippewa
+MN1480011,Groundwater,Mille Lacs
+MN1660004,Groundwater,Rice
+MN1790010,Groundwater,Wabasha
+MN1640005,Groundwater,Redwood
+MN1270024,Surface Water,Hennepin
+MN1420007,Purchased Groundwater,Lyon
+MN1220013,Groundwater,Faribault
+MN1190013,Groundwater,Dakota
+MN1270034,Groundwater,Hennepin
+MN1270031,Groundwater,Hennepin
+MN1270036,Groundwater,Hennepin
+MN1660005,Groundwater,Rice
+MN1020015,Groundwater,Anoka
+MN1090010,Groundwater,Carlton
+MN1250017,Groundwater,Goodhue
+MN1820002,Groundwater,Washington
+MN1310029,Groundwater,Itasca
+MN1580014,Groundwater,Pine
+MN1700010,Groundwater,Scott
+MN1120004,Groundwater,Chippewa
+MN1400012,Groundwater,Le Sueur
+MN1860012,Groundwater,Wright
+MN1860016,Groundwater,Wright
+MN1140008,Surface Water,Clay
+MN1090009,Groundwater,Carlton
+MN1330001,Groundwater,Kanabec
+MN1640006,Groundwater,Redwood
+MN1660017,Groundwater,Rice
+MN1750005,Groundwater,Stevens
+MN1660007,Groundwater,Rice
+MN1650010,Groundwater,Renville
+MN1490003,Groundwater,Morrison
+MN1270038,Groundwater,Hennepin
+MN1620008,Groundwater,Ramsey
+MN1690035,Groundwater,St. Louis
+MN1170003,Groundwater,Cottonwood
+MN1040034,Groundwater,Beltrami
+MN1760007,Groundwater,Swift
+MN1240015,Groundwater,Freeborn
+MN1310024,Groundwater,Itasca
+MN1180036,Groundwater,Crow Wing
+MN1660009,Groundwater,Rice
+MN1170011,Groundwater,Cottonwood
+MN1290010,Groundwater,Hubbard
+MN1720007,Groundwater,Sibley
+MN1620009,Groundwater,Ramsey
+MN1100007,Groundwater,Carver
+MN1270040,Purchased Surface Water,Hennepin
+MN1340005,Purchased Groundwater,Kandiyohi
+MN1730017,Groundwater,Stearns
+MN1400013,Groundwater,Le Sueur
+MN1810002,Groundwater,Waseca
+MN1190011,Groundwater,Dakota
+MN1080003,Groundwater,Brown
+MN1560017,Groundwater,Otter Tail
+MN1450007,Groundwater,Marshall
+MN1820014,Groundwater,Washington
+MN1520004,Groundwater,Nicollet
+MN1600012,Groundwater,Polk
+MN1260007,Groundwater,Grant
+MN1130011,Groundwater,Chisago
+MN1520005,Groundwater,Nicollet
+MN1340020,Groundwater,Kandiyohi
+MN1620011,Groundwater,Ramsey
+MN1040024,Groundwater,Beltrami
+MN1660010,Groundwater,Rice
+MN1360005,Groundwater,Koochiching
+MN1460006,Groundwater,Martin
+MN1430005,Groundwater,McLeod
+MN1100019,Groundwater,Carver
+MN1030006,Groundwater,Becker
+MN1020044,Groundwater,Anoka
+MN1040031,Groundwater,Beltrami
+MN1250003,Groundwater,Goodhue
+MN1680004,Groundwater,Roseau
+MN1820020,Groundwater,Washington
+MN1820016,Groundwater,Washington
+MN1820030,Groundwater,Washington
+MN1060007,Groundwater,Big Stone
+MN1830008,Purchased Groundwater,Watonwan
+MN1030025,Purchased Groundwater,Becker
+MN1330004,Groundwater,Kanabec
+MN1320005,Groundwater,Jackson
+MN1630001,Groundwater,Red Lake
+MN1650011,Groundwater,Renville
+MN1480003,Groundwater,Mille Lacs
+MN1830005,Purchased Groundwater,Watonwan
+MN1270041,Groundwater,Hennepin
+MN1550008,Groundwater,Olmsted
+MN1550036,Groundwater,Olmsted
+MN1690038,Groundwater,St. Louis
+MN1060008,Groundwater,Big Stone
+MN1210020,Groundwater,Douglas
+MN1450008,Groundwater,Marshall
+MN1270042,Purchased Groundwater,Hennepin
+MN1230008,Groundwater,Fillmore
+MN1860026,Groundwater,Wright
+MN1560032,Purchased Groundwater,Otter Tail
+MN1740007,Groundwater,Steele
+MN1010013,Groundwater,Aitkin
+MN1290003,Groundwater,Hubbard
+MN1680017,Groundwater,Roseau
+MN1560018,Groundwater,Otter Tail
+MN1020025,Groundwater,Anoka
+MN1730018,Groundwater,Stearns
+MN1130006,Groundwater,Chisago
+MN1480017,Groundwater,Mille Lacs
+MN1560019,Groundwater,Otter Tail
+MN1070015,Groundwater,Blue Earth
+MN1340006,Groundwater,Kandiyohi
+MN1180019,Groundwater,Crow Wing
+MN1560023,Groundwater,Otter Tail
+MN1540006,Groundwater,Norman
+MN1230009,Groundwater,Fillmore
+MN1110030,Groundwater,Cass
+MN1580008,Groundwater,Pine
+MN1610010,Groundwater,Pope
+MN1250012,Groundwater,Goodhue
+MN1330005,Groundwater,Kanabec
+MN1040039,Groundwater,Beltrami
+MN1160006,Groundwater,Cook
+MN1680015,Groundwater,Roseau
+MN1110019,Groundwater,Cass
+MN1040032,Groundwater,Beltrami
+MN1300003,Groundwater,Isanti
+MN1040009,Groundwater,Beltrami
+MN1290008,Groundwater,Hubbard
+MN1090020,Groundwater,Carlton
+MN1590005,Groundwater,Pipestone
+MN1790012,Groundwater,Wabasha
+MN1430007,Groundwater,McLeod
+MN1630002,Groundwater,Red Lake
+MN1270044,Groundwater,Hennepin
+MN1580016,Groundwater,Pine
+MN1580019,Groundwater,Pine
+MN1870006,Purchased Groundwater,Yellow Medicine
+MN1130023,Groundwater,Chisago
+MN1230010,Groundwater,Fillmore
+MN1480008,Groundwater,Mille Lacs
+MN1340007,Groundwater,Kandiyohi
+MN1700007,Groundwater,Scott
+MN1690042,Purchased Surface Water,St. Louis
+MN1190016,Groundwater,Dakota
+MN1500012,Groundwater,Mower
+MN1020035,Groundwater,Anoka
+MN1490005,Groundwater,Morrison
+MN1190025,Groundwater,Dakota
+MN1360006,Purchased Surface Water,Koochiching
+MN1070016,Groundwater,Blue Earth
+MN1340008,Groundwater,Kandiyohi
+MN1530012,Purchased Groundwater,Nobles
+MN1630003,Groundwater,Red Lake
+MN1170009,Groundwater,Cottonwood
+MN1250013,Groundwater,Goodhue
+MN1640008,Groundwater,Redwood
+MN1110011,Groundwater,Cass
+MN1650012,Groundwater,Renville
+MN1020024,Groundwater,Anoka
+MN1640010,Purchased Groundwater,Redwood
+MN1690049,Purchased Surface Water,St. Louis
+MN1050002,Groundwater,Benton
+MN1490004,Groundwater,Morrison
+MN1270045,Groundwater,Hennepin
+MN1730022,Groundwater,Stearns
+MN1710013,Groundwater,Sherburne
+MN1560030,Groundwater,Otter Tail
+MN1130020,Groundwater,Chisago
+MN1310017,Groundwater,Itasca
+MN1860015,Groundwater,Wright
+MN1070022,Groundwater,Blue Earth
+MN1580004,Groundwater,Pine
+MN1180025,Groundwater,Crow Wing
+MN1270061,Groundwater,Hennepin
+MN1730053,Groundwater,Stearns
+MN1270046,Groundwater,Hennepin
+MN1550010,Groundwater,Olmsted
+MN1670007,Purchased Surface Water,Rock
+MN1860018,Groundwater,Wright
+MN1730026,Groundwater,Stearns
+MN1050003,Groundwater,Benton
+MN1270047,Groundwater,Hennepin
+MN1660022,Groundwater,Rice
+MN1850008,Groundwater,Winona
+MN1040035,Groundwater,Beltrami
+MN1730043,Groundwater,Stearns
+MN1500014,Groundwater,Mower
+MN1680003,Groundwater,Roseau
+MN1340009,Groundwater,Kandiyohi
+MN1190019,Groundwater,Dakota
+MN1620013,Purchased Surface Water,Ramsey
+MN1840006,Groundwater,Wilkin
+MN1530008,Groundwater,Nobles
+MN1490006,Groundwater,Morrison
+MN1130013,Groundwater,Chisago
+MN1230014,Groundwater,Fillmore
+MN1230011,Groundwater,Fillmore
+MN1530009,Purchased Surface Water,Nobles
+MN1420008,Purchased Groundwater,Lyon
+MN1590007,Groundwater,Pipestone
+MN1140010,Groundwater,Clay
+MN1650013,Groundwater,Renville
+MN1270048,Groundwater,Hennepin
+MN1730063,Purchased Surface Water,Stearns
+MN1270049,Groundwater,Hennepin
+MN1850009,Groundwater,Winona
+MN1070017,Groundwater,Blue Earth
+MN1730027,Surface Water,Stearns
+MN1020028,Groundwater,Anoka
+MN1570002,Groundwater,Pennington
+MN1830006,Groundwater,Watonwan
+MN1730009,Groundwater,Stearns
+MN1730033,Groundwater,Stearns
+MN1870007,Purchased Groundwater,Yellow Medicine
+MN1270050,Groundwater,Hennepin
+MN1730035,Groundwater,Stearns
+MN1820018,Groundwater,Washington
+MN1620026,Surface Water,Ramsey
+MN1520006,Groundwater,Nicollet
+MN1640011,Groundwater,Redwood
+MN1580010,Groundwater,Pine
+MN1500015,Groundwater,Mower
+MN1730036,Groundwater,Stearns
+MN1730037,Groundwater,Stearns
+MN1050004,Groundwater,Benton
+MN1700008,Purchased Surface Water,Scott
+MN1820019,Groundwater,Washington
+MN1090011,Purchased Groundwater,Carlton
+MN1070024,Groundwater,Blue Earth
+MN1640018,Purchased Groundwater,Redwood
+MN1800002,Groundwater,Wadena
+MN1040026,Groundwater,Beltrami
+MN1730028,Groundwater,Stearns
+MN1130014,Groundwater,Chisago
+MN1700009,Groundwater,Scott
+MN1540007,Groundwater,Norman
+MN1460007,Groundwater,Martin
+MN1710005,Groundwater,Sherburne
+MN1180034,Groundwater,Crow Wing
+MN1710014,Groundwater,Sherburne
+MN1620020,Groundwater,Ramsey
+MN1130021,Groundwater,Chisago
+MN1270051,Groundwater,Hennepin
+MN1380003,Surface Water,Lake
+MN1430008,Groundwater,McLeod
+MN1190027,Groundwater,Dakota
+MN1070018,Groundwater,Blue Earth
+MN1510009,Groundwater,Murray
+MN1080005,Groundwater,Brown
+MN1070026,Groundwater,Blue Earth
+MN1660008,Groundwater,Rice
+MN1860021,Groundwater,Wright
+MN1190020,Groundwater,Dakota
+MN1190021,Groundwater,Dakota
+MN1340010,Purchased Groundwater,Kandiyohi
+MN1280010,Groundwater,Houston
+MN1020029,Groundwater,Anoka
+MN1270053,Groundwater,Hennepin
+MN1140020,Groundwater,Clay
+MN1230012,Groundwater,Fillmore
+MN1080008,Groundwater,Brown
+MN1680014,Groundwater,Roseau
+MN1240019,Purchased Groundwater,Freeborn
+MN1130016,Groundwater,Chisago
+MN1770011,Groundwater,Todd
+MN1610008,Groundwater,Pope
+MN1720009,Groundwater,Sibley
+MN1670006,Purchased Groundwater,Rock
+MN1450009,Purchased Groundwater,Marshall
+MN1430009,Groundwater,McLeod
+MN1550026,Groundwater,Olmsted
+MN1820024,Groundwater,Washington
+MN1850020,Groundwater,Winona
+MN1700027,Groundwater,Scott
+MN1700024,Groundwater,Scott
+MN1700025,Groundwater,Scott
+MN1130008,Groundwater,Chisago
+MN1560035,Groundwater,Otter Tail
+MN1170004,Purchased Groundwater,Cottonwood
+MN1450010,Groundwater,Marshall
+MN1580021,Groundwater,Pine
+MN1580006,Groundwater,Pine
+MN1270025,Groundwater,Hennepin
+MN1290011,Groundwater,Hubbard
+MN1340019,Groundwater,Kandiyohi
+MN1660023,Groundwater,Rice
+MN1550016,Groundwater,Olmsted
+MN1180003,Groundwater,Crow Wing
+MN1490007,Groundwater,Morrison
+MN1310028,Groundwater,Itasca
+MN1420009,Purchased Groundwater,Lyon
+MN1130017,Groundwater,Chisago
+MN1620018,Groundwater,Ramsey
+MN1070025,Groundwater,Blue Earth
+MN1700026,Groundwater,Scott
+MN1050010,Groundwater,Benton
+MN1860013,Groundwater,Wright
+MN1570003,Surface Water,Pennington
+MN1620019,Groundwater,Ramsey
+MN1740008,Groundwater,Steele
+MN1110033,Groundwater,Cass
+MN1680009,Groundwater,Roseau
+MN1780003,Groundwater,Traverse
+MN1270013,Groundwater,Hennepin
+MN1690051,Purchased Groundwater,St. Louis
+MN1620016,Groundwater,Ramsey
+MN1110034,Groundwater,Cass
+MN1420010,Groundwater,Lyon
+MN1460009,Groundwater,Martin
+MN1180026,Groundwater,Crow Wing
+MN1590008,Purchased Groundwater,Pipestone
+MN1460010,Groundwater,Martin
+MN1030003,Groundwater,Becker
+MN1240016,Groundwater,Freeborn
+MN1540008,Groundwater,Norman
+MN1380005,Surface Water,Lake
+MN1410004,Purchased Groundwater,Lincoln
+MN1140011,Groundwater,Clay
+MN1560026,Groundwater,Otter Tail
+MN1490008,Groundwater,Morrison
+MN1850011,Groundwater,Winona
+MN1620030,Groundwater,Ramsey
+MN1400006,Groundwater,Le Sueur
+MN1700005,Groundwater,Scott
+MN1410005,Purchased Groundwater,Lincoln
+MN1560029,Groundwater,Otter Tail
+MN1190028,Groundwater,Dakota
+MN1800003,Groundwater,Wadena
+MN1070019,Groundwater,Blue Earth
+MN1640012,Groundwater,Redwood
+MN1100009,Groundwater,Carver
+MN1450011,Groundwater,Marshall
+MN1610009,Groundwater,Pope
+MN1690046,Surface Water,St. Louis
+MN1790013,Groundwater,Wabasha
+MN1640013,Groundwater,Redwood
+MN1100010,Groundwater,Carver
+MN1800004,Groundwater,Wadena
+MN1730039,Groundwater,Stearns
+MN1810003,Groundwater,Waseca
+MN1110013,Groundwater,Cass
+MN1640014,Groundwater,Redwood
+MN1220009,Groundwater,Faribault
+MN1500016,Groundwater,Mower
+MN1250018,Groundwater,Goodhue
+MN1640015,Groundwater,Redwood
+MN1310030,Groundwater,Itasca
+MN1450012,Groundwater,Marshall
+MN1680012,Groundwater,Roseau
+MN1680006,Groundwater,Roseau
+MN1810004,Groundwater,Waseca
+MN1100012,Groundwater,Carver
+MN1400015,Groundwater,Le Sueur
+MN1470010,Purchased Groundwater,Meeker
+MN1120006,Groundwater,Chippewa
+MN1440004,Groundwater,Mahnomen
+MN1860019,Groundwater,Wright
+MN1270054,Groundwater,Hennepin
+MN1660011,Groundwater,Rice
+MN1460011,Groundwater,Martin
+MN1220010,Groundwater,Faribault
+MN1260008,Groundwater,Grant
+MN1270062,Groundwater,Hennepin
+MN1200007,Groundwater,Dodge
+MN1170005,Groundwater,Cottonwood
+MN1700021,Groundwater,Scott
+MN1210027,Groundwater,Douglas
+MN1780004,Groundwater,Traverse
+MN1620024,Groundwater,Ramsey
+MN1620025,Groundwater,Ramsey
+MN1180035,Groundwater,Crow Wing
+MN1690001,Purchased Surface Water,St. Louis
+MN1180050,Groundwater,Crow Wing
+MN1010019,Groundwater,Aitkin
+MN1320006,Purchased Groundwater,Jackson
+MN1730051,Groundwater,Stearns
+MN1820022,Purchased Groundwater,Washington
+MN1340016,Groundwater,Kandiyohi
+MN1040038,Groundwater,Beltrami
+MN1580020,Groundwater,Pine
+MN1020037,Groundwater,Anoka
+MN1530010,Groundwater,Nobles
+MN1170006,Groundwater,Cottonwood
+MN1710015,Groundwater,Sherburne
+MN1600013,Groundwater,Polk
+MN1220011,Groundwater,Faribault
+MN1850013,Groundwater,Winona
+MN1430010,Groundwater,McLeod
+MN1720008,Groundwater,Sibley
+MN1690057,Groundwater,St. Louis
+MN1840007,Groundwater,Wilkin
+MN1870008,Groundwater,Yellow Medicine
+MN1820025,Groundwater,Washington
+MN1040027,Groundwater,Beltrami
+MN1820006,Groundwater,Washington
+MN1590009,Purchased Groundwater,Pipestone
+MN1530011,Purchased Surface Water,Nobles
+MN1090013,Groundwater,Carlton
+MN1230013,Groundwater,Fillmore
+MN1820038,Groundwater,Washington
+MN1020030,Groundwater,Anoka
+MN1130018,Groundwater,Chisago
+MN1710006,Groundwater,Sherburne
+MN1790015,Groundwater,Wabasha
+MN1550003,Groundwater,Olmsted
+MN1250020,Groundwater,Goodhue

@@ -1,0 +1,17 @@
+
+                        ------------------------------------------------------------------------------------------
+  Community Water Systems
+  Downloaded at 9:45:46 PM on 9/28/2026 from https://mndata.web.health.state.mn.us/community_water_systems/data_download.html
+
+  Data was provided by the Minnesota Department of Health Environmental Public Health
+  Tracking Program
+  Website: https://www.health.state.mn.us/communities/environment/tracking
+  Contact: health.dataportal@state.mn.us
+
+  Data were sourced from:
+  Minnesota Drinking Water Information System (MNDWIS)
+
+  For more information about these data including data sourcing, indicator calculations, and
+  more, please visit https://mndata.web.health.state.mn.us/community_water_systems/about_the_data.html
+                        ------------------------------------------------------------------------------------------
+                        
