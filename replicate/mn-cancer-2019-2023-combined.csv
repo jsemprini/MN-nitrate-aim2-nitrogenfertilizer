@@ -1,0 +1,784 @@
+Area,Age-Adjusted Rate,Case Count,Population,cancer_type,county,fips
+Norman County,Data not presented,Data not presented,Data not presented,crc,norman,27107
+Kittson County,Data not presented,Data not presented,Data not presented,crc,kittson,27069
+Mahnomen County,Data not presented,Data not presented,Data not presented,crc,mahnomen,27087
+Traverse County,Data not presented,Data not presented,Data not presented,crc,traverse,27155
+Red Lake County,Data not presented,Data not presented,Data not presented,crc,red lake,27125
+Cook County,Data not presented,Data not presented,Data not presented,crc,cook,27031
+Stevens County,Data not presented,Data not presented,Data not presented,crc,stevens,27149
+Swift County,26.2,21,48999,crc,swift,27151
+Le Sueur County,29.0,54,144883,crc,le sueur,27079
+Steele County,29.2,71,187171,crc,steele,27147
+Morrison County,29.5,69,170762,crc,morrison,27097
+Pope County,31.4,27,56846,crc,pope,27121
+Watonwan County,32.0,27,56129,crc,watonwan,27165
+Benton County,32.8,75,207379,crc,benton,27009
+Clay County,32.9,110,328557,crc,clay,27027
+Stearns County,33.2,289,798097,crc,stearns,27145
+Carver County,33.3,194,543365,crc,carver,27019
+Winona County,33.5,101,248791,crc,winona,27169
+McLeod County,33.8,90,184027,crc,mcleod,27085
+Hennepin County,34.1,2401,6351175,crc,hennepin,27053
+Washington County,34.2,537,1362168,crc,washington,27163
+Itasca County,34.4,120,225900,crc,itasca,27061
+Goodhue County,34.5,116,239256,crc,goodhue,27049
+Wabasha County,34.8,54,107635,crc,wabasha,27157
+Scott County,34.9,270,765161,crc,scott,27139
+Mower County,35.0,84,200773,crc,mower,27099
+Martin County,35.0,55,99465,crc,martin,27091
+Kandiyohi County,35.2,99,219414,crc,kandiyohi,27067
+Dakota County,35.4,886,2212652,crc,dakota,27037
+Cass County,35.5,86,153337,crc,cass,27021
+Marshall County,35.8,24,44843,crc,marshall,27089
+Ramsey County,35.9,1055,2725395,crc,ramsey,27123
+Olmsted County,36.4,347,817642,crc,olmsted,27109
+Otter Tail County,36.7,172,301396,crc,otter tail,27111
+Becker County,36.8,82,176340,crc,becker,27005
+Douglas County,36.8,111,196688,crc,douglas,27041
+Crow Wing County,37.3,181,335499,crc,crow wing,27035
+Blue Earth County,37.3,132,347381,crc,blue earth,27013
+Anoka County,37.4,787,1836321,crc,anoka,27003
+Sherburne County,37.6,186,496007,crc,sherburne,27141
+Rice County,37.9,149,337563,crc,rice,27131
+St. Louis County,38.1,506,1000318,crc,st. louis,27137
+Nobles County,38.2,51,110612,crc,nobles,27105
+Jackson County,38.5,33,49819,crc,jackson,27063
+Roseau County,38.7,42,76644,crc,roseau,27135
+Clearwater County,39.1,25,42833,crc,clearwater,27029
+Wright County,39.3,297,726692,crc,wright,27171
+Lake County,39.6,37,54591,crc,lake,27075
+Kanabec County,39.7,48,81368,crc,kanabec,27065
+Fillmore County,39.7,61,106768,crc,fillmore,27045
+Chisago County,39.9,138,287299,crc,chisago,27025
+Houston County,39.9,54,93756,crc,houston,27055
+Isanti County,40.0,100,209648,crc,isanti,27059
+Todd County,40.3,71,127188,crc,todd,27153
+Nicollet County,40.5,82,171895,crc,nicollet,27103
+Pine County,41.1,86,146859,crc,pine,27115
+Rock County,41.2,28,48290,crc,rock,27133
+Lac qui Parle County,41.3,23,33557,crc,lac qui parle,27073
+Wilkin County,41.7,18,32132,crc,wilkin,27167
+Pipestone County,42.0,32,46748,crc,pipestone,27117
+Freeborn County,42.2,101,153686,crc,freeborn,27047
+Meeker County,42.2,64,117101,crc,meeker,27093
+Sibley County,42.4,42,74806,crc,sibley,27143
+Carlton County,42.7,102,182100,crc,carlton,27017
+Grant County,42.9,18,30562,crc,grant,27051
+Brown County,43.0,79,129224,crc,brown,27015
+Wadena County,43.4,44,70780,crc,wadena,27159
+Hubbard County,43.5,71,108337,crc,hubbard,27057
+Polk County,44.3,86,154622,crc,polk,27119
+Renville County,45.4,50,73149,crc,renville,27129
+Mille Lacs County,45.4,80,134493,crc,mille lacs,27095
+Big Stone County,46.0,20,25760,crc,big stone,27011
+Dodge County,47.0,55,104864,crc,dodge,27039
+Chippewa County,47.5,45,62162,crc,chippewa,27023
+Pennington County,47.5,46,69431,crc,pennington,27113
+Redwood County,49.1,49,76989,crc,redwood,27127
+Cottonwood County,49.3,43,57451,crc,cottonwood,27033
+Murray County,51.1,35,40643,crc,murray,27101
+Lyon County,51.5,79,127675,crc,lyon,27083
+Faribault County,52.0,53,69644,crc,faribault,27043
+Yellow Medicine County,54.4,34,47488,crc,yellow medicine,27173
+Beltrami County,54.5,149,231863,crc,beltrami,27007
+Waseca County,54.6,66,94689,crc,waseca,27161
+Koochiching County,56.7,57,59734,crc,koochiching,27071
+Aitkin County,57.7,77,79615,crc,aitkin,27001
+Lake of the Woods County,67.3,20,19057,crc,lake of the woods,27077
+Lincoln County,79.4,31,28145,crc,lincoln,27081
+Chippewa County,Data not presented,Data not presented,Data not presented,leuk,chippewa,27023
+Clearwater County,Data not presented,Data not presented,Data not presented,leuk,clearwater,27029
+Cottonwood County,Data not presented,Data not presented,Data not presented,leuk,cottonwood,27033
+Cook County,Data not presented,Data not presented,Data not presented,leuk,cook,27031
+Grant County,Data not presented,Data not presented,Data not presented,leuk,grant,27051
+Mahnomen County,Data not presented,Data not presented,Data not presented,leuk,mahnomen,27087
+Norman County,Data not presented,Data not presented,Data not presented,leuk,norman,27107
+Murray County,Data not presented,Data not presented,Data not presented,leuk,murray,27101
+Marshall County,Data not presented,Data not presented,Data not presented,leuk,marshall,27089
+Lac qui Parle County,Data not presented,Data not presented,Data not presented,leuk,lac qui parle,27073
+Jackson County,Data not presented,Data not presented,Data not presented,leuk,jackson,27063
+Lincoln County,Data not presented,Data not presented,Data not presented,leuk,lincoln,27081
+Kittson County,Data not presented,Data not presented,Data not presented,leuk,kittson,27069
+Faribault County,Data not presented,Data not presented,Data not presented,leuk,faribault,27043
+Lake County,Data not presented,Data not presented,Data not presented,leuk,lake,27075
+Wilkin County,Data not presented,Data not presented,Data not presented,leuk,wilkin,27167
+Big Stone County,Data not presented,Data not presented,Data not presented,leuk,big stone,27011
+Stevens County,Data not presented,Data not presented,Data not presented,leuk,stevens,27149
+Red Lake County,Data not presented,Data not presented,Data not presented,leuk,red lake,27125
+Pope County,Data not presented,Data not presented,Data not presented,leuk,pope,27121
+Pipestone County,Data not presented,Data not presented,Data not presented,leuk,pipestone,27117
+Watonwan County,Data not presented,Data not presented,Data not presented,leuk,watonwan,27165
+Lake of the Woods County,Data not presented,Data not presented,Data not presented,leuk,lake of the woods,27077
+Traverse County,Data not presented,Data not presented,Data not presented,leuk,traverse,27155
+Rock County,Data not presented,Data not presented,Data not presented,leuk,rock,27133
+Sibley County,Data not presented,Data not presented,Data not presented,leuk,sibley,27143
+Yellow Medicine County,Data not presented,Data not presented,Data not presented,leuk,yellow medicine,27173
+Cass County,11.2,32,153337,leuk,cass,27021
+Carlton County,12.0,31,182100,leuk,carlton,27017
+Blue Earth County,12.5,47,347381,leuk,blue earth,27013
+Steele County,13.0,33,187171,leuk,steele,27147
+Martin County,13.3,20,99465,leuk,martin,27091
+Polk County,13.6,26,154622,leuk,polk,27119
+Roseau County,13.8,16,76644,leuk,roseau,27135
+Becker County,14.1,36,176340,leuk,becker,27005
+Clay County,14.7,51,328557,leuk,clay,27027
+Stearns County,14.8,141,798097,leuk,stearns,27145
+Carver County,15.1,88,543365,leuk,carver,27019
+Brown County,15.2,32,129224,leuk,brown,27015
+Freeborn County,15.3,38,153686,leuk,freeborn,27047
+Meeker County,15.3,28,117101,leuk,meeker,27093
+Todd County,15.6,26,127188,leuk,todd,27153
+Houston County,15.7,24,93756,leuk,houston,27055
+Hennepin County,15.7,1112,6351175,leuk,hennepin,27053
+Wright County,15.9,119,726692,leuk,wright,27171
+Nicollet County,16.0,33,171895,leuk,nicollet,27103
+Ramsey County,16.3,494,2725395,leuk,ramsey,27123
+Scott County,16.5,124,765161,leuk,scott,27139
+Lyon County,16.6,26,127675,leuk,lyon,27083
+Morrison County,16.7,39,170762,leuk,morrison,27097
+Aitkin County,16.8,28,79615,leuk,aitkin,27001
+Olmsted County,16.8,161,817642,leuk,olmsted,27109
+Dakota County,16.8,422,2212652,leuk,dakota,27037
+McLeod County,17.1,44,184027,leuk,mcleod,27085
+Washington County,17.1,279,1362168,leuk,washington,27163
+Koochiching County,17.2,19,59734,leuk,koochiching,27071
+Fillmore County,17.5,26,106768,leuk,fillmore,27045
+Goodhue County,17.6,62,239256,leuk,goodhue,27049
+Mille Lacs County,17.7,30,134493,leuk,mille lacs,27095
+Itasca County,17.9,66,225900,leuk,itasca,27061
+Chisago County,18.0,60,287299,leuk,chisago,27025
+St. Louis County,18.2,242,1000318,leuk,st. louis,27137
+Anoka County,18.3,379,1836321,leuk,anoka,27003
+Pennington County,18.5,18,69431,leuk,pennington,27113
+Kandiyohi County,18.6,56,219414,leuk,kandiyohi,27067
+Benton County,18.8,43,207379,leuk,benton,27009
+Douglas County,18.8,54,196688,leuk,douglas,27041
+Nobles County,18.9,25,110612,leuk,nobles,27105
+Pine County,19.1,41,146859,leuk,pine,27115
+Otter Tail County,19.2,90,301396,leuk,otter tail,27111
+Rice County,19.4,77,337563,leuk,rice,27131
+Wadena County,19.4,21,70780,leuk,wadena,27159
+Sherburne County,19.7,94,496007,leuk,sherburne,27141
+Isanti County,20.3,52,209648,leuk,isanti,27059
+Waseca County,20.4,27,94689,leuk,waseca,27161
+Beltrami County,21.0,60,231863,leuk,beltrami,27007
+Kanabec County,21.1,25,81368,leuk,kanabec,27065
+Mower County,21.6,54,200773,leuk,mower,27099
+Dodge County,21.7,26,104864,leuk,dodge,27039
+Winona County,22.1,69,248791,leuk,winona,27169
+Crow Wing County,22.2,116,335499,leuk,crow wing,27035
+Le Sueur County,22.6,41,144883,leuk,le sueur,27079
+Swift County,22.7,18,48999,leuk,swift,27151
+Wabasha County,24.3,39,107635,leuk,wabasha,27157
+Renville County,25.9,26,73149,leuk,renville,27129
+Hubbard County,26.8,42,108337,leuk,hubbard,27057
+Redwood County,28.9,31,76989,leuk,redwood,27127
+Cook County,423.5,227,28209,all,cook,27031
+Roseau County,430.3,450,76644,all,roseau,27135
+Freeborn County,437.2,1026,153686,all,freeborn,27047
+Koochiching County,438.3,483,59734,all,koochiching,27071
+Stevens County,444.7,246,48622,all,stevens,27149
+Swift County,448.9,343,48999,all,swift,27151
+Todd County,456.1,861,127188,all,todd,27153
+Carver County,456.2,2776,543365,all,carver,27019
+Hennepin County,465.5,33983,6351175,all,hennepin,27053
+Lake County,465.7,448,54591,all,lake,27075
+Lac qui Parle County,467.2,282,33557,all,lac qui parle,27073
+Jackson County,467.4,361,49819,all,jackson,27063
+Stearns County,470.1,4315,798097,all,stearns,27145
+Steele County,471.9,1172,187171,all,steele,27147
+McLeod County,472.1,1234,184027,all,mcleod,27085
+Nobles County,472.7,633,110612,all,nobles,27105
+Blue Earth County,474.3,1743,347381,all,blue earth,27013
+Sibley County,475.7,478,74806,all,sibley,27143
+Clearwater County,475.9,287,42833,all,clearwater,27029
+Benton County,476.3,1088,207379,all,benton,27009
+Dodge County,476.6,580,104864,all,dodge,27039
+Faribault County,478.5,518,69644,all,faribault,27043
+Martin County,482.3,758,99465,all,martin,27091
+Scott County,483.9,3797,765161,all,scott,27139
+Rock County,484.6,323,48290,all,rock,27133
+Douglas County,485.9,1495,196688,all,douglas,27041
+Nicollet County,486.2,1010,171895,all,nicollet,27103
+Murray County,487.1,337,40643,all,murray,27101
+Kandiyohi County,487.8,1457,219414,all,kandiyohi,27067
+Ramsey County,488.4,15249,2725395,all,ramsey,27123
+Winona County,488.6,1557,248791,all,winona,27169
+Morrison County,489.4,1198,170762,all,morrison,27097
+Mower County,491.5,1271,200773,all,mower,27099
+Meeker County,492.3,836,117101,all,meeker,27093
+Dakota County,494.0,12925,2212652,all,dakota,27037
+Sherburne County,494.2,2503,496007,all,sherburne,27141
+Kanabec County,495.9,622,81368,all,kanabec,27065
+Polk County,497.8,1031,154622,all,polk,27119
+Rice County,498.3,1997,337563,all,rice,27131
+Le Sueur County,498.4,964,144883,all,le sueur,27079
+Waseca County,498.5,626,94689,all,waseca,27161
+St. Louis County,498.8,7040,1000318,all,st. louis,27137
+Wright County,498.9,3905,726692,all,wright,27171
+Pope County,499.6,451,56846,all,pope,27121
+Goodhue County,502.7,1718,239256,all,goodhue,27049
+Houston County,503.9,721,93756,all,houston,27055
+Itasca County,504.5,1828,225900,all,itasca,27061
+Fillmore County,504.6,793,106768,all,fillmore,27045
+Carlton County,505.2,1240,182100,all,carlton,27017
+Pine County,506.1,1141,146859,all,pine,27115
+Big Stone County,506.4,209,25760,all,big stone,27011
+Anoka County,506.6,10955,1836321,all,anoka,27003
+Watonwan County,509.9,387,56129,all,watonwan,27165
+Aitkin County,510.7,837,79615,all,aitkin,27001
+Cass County,510.7,1363,153337,all,cass,27021
+Lyon County,512.4,813,127675,all,lyon,27083
+Isanti County,514.9,1366,209648,all,isanti,27059
+Marshall County,515.5,342,44843,all,marshall,27089
+Lake of the Woods County,516.0,164,19057,all,lake of the woods,27077
+Becker County,519.1,1323,176340,all,becker,27005
+Washington County,520.0,8660,1362168,all,washington,27163
+Wilkin County,520.6,234,32132,all,wilkin,27167
+Kittson County,525.1,186,20695,all,kittson,27069
+Chisago County,527.0,1927,287299,all,chisago,27025
+Otter Tail County,528.3,2572,301396,all,otter tail,27111
+Wabasha County,529.3,873,107635,all,wabasha,27157
+Crow Wing County,529.8,2827,335499,all,crow wing,27035
+Brown County,530.1,989,129224,all,brown,27015
+Grant County,531.5,249,30562,all,grant,27051
+Olmsted County,531.6,5175,817642,all,olmsted,27109
+Hubbard County,533.5,957,108337,all,hubbard,27057
+Mille Lacs County,534.1,969,134493,all,mille lacs,27095
+Clay County,537.4,1838,328557,all,clay,27027
+Yellow Medicine County,539.3,373,47488,all,yellow medicine,27173
+Redwood County,542.6,610,76989,all,redwood,27127
+Lincoln County,546.1,240,28145,all,lincoln,27081
+Beltrami County,547.4,1513,231863,all,beltrami,27007
+Chippewa County,550.1,504,62162,all,chippewa,27023
+Red Lake County,552.7,155,19643,all,red lake,27125
+Cottonwood County,554.5,475,57451,all,cottonwood,27033
+Pipestone County,557.8,373,46748,all,pipestone,27117
+Pennington County,559.1,521,69431,all,pennington,27113
+Wadena County,569.0,587,70780,all,wadena,27159
+Renville County,573.4,612,73149,all,renville,27129
+Norman County,583.7,266,32062,all,norman,27107
+Traverse County,602.4,152,16488,all,traverse,27155
+Mahnomen County,620.8,214,26962,all,mahnomen,27087
+Big Stone County,Data not presented,Data not presented,Data not presented,thyroid,big stone,27011
+Kanabec County,Data not presented,Data not presented,Data not presented,thyroid,kanabec,27065
+Cottonwood County,Data not presented,Data not presented,Data not presented,thyroid,cottonwood,27033
+Houston County,Data not presented,Data not presented,Data not presented,thyroid,houston,27055
+Lincoln County,Data not presented,Data not presented,Data not presented,thyroid,lincoln,27081
+Faribault County,Data not presented,Data not presented,Data not presented,thyroid,faribault,27043
+Lac qui Parle County,Data not presented,Data not presented,Data not presented,thyroid,lac qui parle,27073
+Rock County,Data not presented,Data not presented,Data not presented,thyroid,rock,27133
+Koochiching County,Data not presented,Data not presented,Data not presented,thyroid,koochiching,27071
+Cook County,Data not presented,Data not presented,Data not presented,thyroid,cook,27031
+Kittson County,Data not presented,Data not presented,Data not presented,thyroid,kittson,27069
+Jackson County,Data not presented,Data not presented,Data not presented,thyroid,jackson,27063
+Lyon County,Data not presented,Data not presented,Data not presented,thyroid,lyon,27083
+Murray County,Data not presented,Data not presented,Data not presented,thyroid,murray,27101
+Clearwater County,Data not presented,Data not presented,Data not presented,thyroid,clearwater,27029
+Mahnomen County,Data not presented,Data not presented,Data not presented,thyroid,mahnomen,27087
+Meeker County,Data not presented,Data not presented,Data not presented,thyroid,meeker,27093
+Nobles County,Data not presented,Data not presented,Data not presented,thyroid,nobles,27105
+Aitkin County,Data not presented,Data not presented,Data not presented,thyroid,aitkin,27001
+Red Lake County,Data not presented,Data not presented,Data not presented,thyroid,red lake,27125
+Sibley County,Data not presented,Data not presented,Data not presented,thyroid,sibley,27143
+Grant County,Data not presented,Data not presented,Data not presented,thyroid,grant,27051
+Norman County,Data not presented,Data not presented,Data not presented,thyroid,norman,27107
+Pennington County,Data not presented,Data not presented,Data not presented,thyroid,pennington,27113
+Renville County,Data not presented,Data not presented,Data not presented,thyroid,renville,27129
+Chippewa County,Data not presented,Data not presented,Data not presented,thyroid,chippewa,27023
+Lake County,Data not presented,Data not presented,Data not presented,thyroid,lake,27075
+Martin County,Data not presented,Data not presented,Data not presented,thyroid,martin,27091
+Swift County,Data not presented,Data not presented,Data not presented,thyroid,swift,27151
+Redwood County,Data not presented,Data not presented,Data not presented,thyroid,redwood,27127
+Pope County,Data not presented,Data not presented,Data not presented,thyroid,pope,27121
+Marshall County,Data not presented,Data not presented,Data not presented,thyroid,marshall,27089
+Stevens County,Data not presented,Data not presented,Data not presented,thyroid,stevens,27149
+Lake of the Woods County,Data not presented,Data not presented,Data not presented,thyroid,lake of the woods,27077
+Pipestone County,Data not presented,Data not presented,Data not presented,thyroid,pipestone,27117
+Roseau County,Data not presented,Data not presented,Data not presented,thyroid,roseau,27135
+Yellow Medicine County,Data not presented,Data not presented,Data not presented,thyroid,yellow medicine,27173
+Wadena County,Data not presented,Data not presented,Data not presented,thyroid,wadena,27159
+Wilkin County,Data not presented,Data not presented,Data not presented,thyroid,wilkin,27167
+Traverse County,Data not presented,Data not presented,Data not presented,thyroid,traverse,27155
+Watonwan County,Data not presented,Data not presented,Data not presented,thyroid,watonwan,27165
+Waseca County,Data not presented,Data not presented,Data not presented,thyroid,waseca,27161
+Nicollet County,9.1,16,171895,thyroid,nicollet,27103
+Blue Earth County,9.4,32,347381,thyroid,blue earth,27013
+Ramsey County,9.4,270,2725395,thyroid,ramsey,27123
+Todd County,10.1,17,127188,thyroid,todd,27153
+Morrison County,10.2,20,170762,thyroid,morrison,27097
+Kandiyohi County,10.2,25,219414,thyroid,kandiyohi,27067
+Hennepin County,10.8,742,6351175,thyroid,hennepin,27053
+Crow Wing County,10.9,41,335499,thyroid,crow wing,27035
+Winona County,11.0,27,248791,thyroid,winona,27169
+Wright County,11.1,85,726692,thyroid,wright,27171
+Washington County,11.3,167,1362168,thyroid,washington,27163
+Pine County,11.5,22,146859,thyroid,pine,27115
+Douglas County,11.6,25,196688,thyroid,douglas,27041
+Le Sueur County,11.8,17,144883,thyroid,le sueur,27079
+Itasca County,11.9,31,225900,thyroid,itasca,27061
+Anoka County,12.1,239,1836321,thyroid,anoka,27003
+Dakota County,12.4,292,2212652,thyroid,dakota,27037
+Benton County,12.7,27,207379,thyroid,benton,27009
+Carver County,12.7,74,543365,thyroid,carver,27019
+Cass County,12.8,22,153337,thyroid,cass,27021
+Rice County,13.1,45,337563,thyroid,rice,27131
+Sherburne County,13.3,66,496007,thyroid,sherburne,27141
+Stearns County,13.4,104,798097,thyroid,stearns,27145
+Freeborn County,13.7,23,153686,thyroid,freeborn,27047
+Beltrami County,14.0,29,231863,thyroid,beltrami,27007
+Isanti County,14.0,32,209648,thyroid,isanti,27059
+Scott County,14.0,108,765161,thyroid,scott,27139
+Mower County,14.1,31,200773,thyroid,mower,27099
+Steele County,14.2,29,187171,thyroid,steele,27147
+McLeod County,15.2,32,184027,thyroid,mcleod,27085
+Goodhue County,15.9,42,239256,thyroid,goodhue,27049
+St. Louis County,15.9,166,1000318,thyroid,st. louis,27137
+Wabasha County,16.1,23,107635,thyroid,wabasha,27157
+Fillmore County,16.6,18,106768,thyroid,fillmore,27045
+Mille Lacs County,16.9,22,134493,thyroid,mille lacs,27095
+Brown County,17.1,23,129224,thyroid,brown,27015
+Otter Tail County,17.9,60,301396,thyroid,otter tail,27111
+Chisago County,18.0,56,287299,thyroid,chisago,27025
+Carlton County,18.3,35,182100,thyroid,carlton,27017
+Clay County,19.1,59,328557,thyroid,clay,27027
+Polk County,19.6,32,154622,thyroid,polk,27119
+Olmsted County,20.0,173,817642,thyroid,olmsted,27109
+Hubbard County,20.3,23,108337,thyroid,hubbard,27057
+Dodge County,20.4,23,104864,thyroid,dodge,27039
+Becker County,23.2,42,176340,thyroid,becker,27005
+Yellow Medicine County,Data not presented,Data not presented,Data not presented,bcns,yellow medicine,27173
+Brown County,Data not presented,Data not presented,Data not presented,bcns,brown,27015
+Big Stone County,Data not presented,Data not presented,Data not presented,bcns,big stone,27011
+Cook County,Data not presented,Data not presented,Data not presented,bcns,cook,27031
+Clearwater County,Data not presented,Data not presented,Data not presented,bcns,clearwater,27029
+Grant County,Data not presented,Data not presented,Data not presented,bcns,grant,27051
+Kanabec County,Data not presented,Data not presented,Data not presented,bcns,kanabec,27065
+Norman County,Data not presented,Data not presented,Data not presented,bcns,norman,27107
+Pennington County,Data not presented,Data not presented,Data not presented,bcns,pennington,27113
+Fillmore County,Data not presented,Data not presented,Data not presented,bcns,fillmore,27045
+Lac qui Parle County,Data not presented,Data not presented,Data not presented,bcns,lac qui parle,27073
+Dodge County,Data not presented,Data not presented,Data not presented,bcns,dodge,27039
+Lyon County,Data not presented,Data not presented,Data not presented,bcns,lyon,27083
+Faribault County,Data not presented,Data not presented,Data not presented,bcns,faribault,27043
+Kittson County,Data not presented,Data not presented,Data not presented,bcns,kittson,27069
+Hubbard County,Data not presented,Data not presented,Data not presented,bcns,hubbard,27057
+Mille Lacs County,Data not presented,Data not presented,Data not presented,bcns,mille lacs,27095
+Polk County,Data not presented,Data not presented,Data not presented,bcns,polk,27119
+Jackson County,Data not presented,Data not presented,Data not presented,bcns,jackson,27063
+Freeborn County,Data not presented,Data not presented,Data not presented,bcns,freeborn,27047
+Koochiching County,Data not presented,Data not presented,Data not presented,bcns,koochiching,27071
+Lake County,Data not presented,Data not presented,Data not presented,bcns,lake,27075
+Itasca County,Data not presented,Data not presented,Data not presented,bcns,itasca,27061
+Martin County,Data not presented,Data not presented,Data not presented,bcns,martin,27091
+Redwood County,Data not presented,Data not presented,Data not presented,bcns,redwood,27127
+Cottonwood County,Data not presented,Data not presented,Data not presented,bcns,cottonwood,27033
+Murray County,Data not presented,Data not presented,Data not presented,bcns,murray,27101
+McLeod County,Data not presented,Data not presented,Data not presented,bcns,mcleod,27085
+Marshall County,Data not presented,Data not presented,Data not presented,bcns,marshall,27089
+Mower County,Data not presented,Data not presented,Data not presented,bcns,mower,27099
+Rock County,Data not presented,Data not presented,Data not presented,bcns,rock,27133
+Sibley County,Data not presented,Data not presented,Data not presented,bcns,sibley,27143
+Le Sueur County,Data not presented,Data not presented,Data not presented,bcns,le sueur,27079
+Houston County,Data not presented,Data not presented,Data not presented,bcns,houston,27055
+Lincoln County,Data not presented,Data not presented,Data not presented,bcns,lincoln,27081
+Renville County,Data not presented,Data not presented,Data not presented,bcns,renville,27129
+Wabasha County,Data not presented,Data not presented,Data not presented,bcns,wabasha,27157
+Mahnomen County,Data not presented,Data not presented,Data not presented,bcns,mahnomen,27087
+Meeker County,Data not presented,Data not presented,Data not presented,bcns,meeker,27093
+Todd County,Data not presented,Data not presented,Data not presented,bcns,todd,27153
+Chippewa County,Data not presented,Data not presented,Data not presented,bcns,chippewa,27023
+Traverse County,Data not presented,Data not presented,Data not presented,bcns,traverse,27155
+Lake of the Woods County,Data not presented,Data not presented,Data not presented,bcns,lake of the woods,27077
+Roseau County,Data not presented,Data not presented,Data not presented,bcns,roseau,27135
+Watonwan County,Data not presented,Data not presented,Data not presented,bcns,watonwan,27165
+Nobles County,Data not presented,Data not presented,Data not presented,bcns,nobles,27105
+Pipestone County,Data not presented,Data not presented,Data not presented,bcns,pipestone,27117
+Wadena County,Data not presented,Data not presented,Data not presented,bcns,wadena,27159
+Pope County,Data not presented,Data not presented,Data not presented,bcns,pope,27121
+Swift County,Data not presented,Data not presented,Data not presented,bcns,swift,27151
+Wilkin County,Data not presented,Data not presented,Data not presented,bcns,wilkin,27167
+Stevens County,Data not presented,Data not presented,Data not presented,bcns,stevens,27149
+Cass County,Data not presented,Data not presented,Data not presented,bcns,cass,27021
+Red Lake County,Data not presented,Data not presented,Data not presented,bcns,red lake,27125
+Waseca County,Data not presented,Data not presented,Data not presented,bcns,waseca,27161
+Aitkin County,Data not presented,Data not presented,Data not presented,bcns,aitkin,27001
+Stearns County,5.3,46,798097,bcns,stearns,27145
+St. Louis County,5.6,69,1000318,bcns,st. louis,27137
+Winona County,6.0,16,248791,bcns,winona,27169
+Carver County,6.1,36,543365,bcns,carver,27019
+Hennepin County,6.4,445,6351175,bcns,hennepin,27053
+Kandiyohi County,6.4,17,219414,bcns,kandiyohi,27067
+Blue Earth County,6.5,21,347381,bcns,blue earth,27013
+Goodhue County,6.6,22,239256,bcns,goodhue,27049
+Washington County,6.6,105,1362168,bcns,washington,27163
+Ramsey County,6.7,196,2725395,bcns,ramsey,27123
+Wright County,6.9,51,726692,bcns,wright,27171
+Becker County,7.0,16,176340,bcns,becker,27005
+Chisago County,7.0,25,287299,bcns,chisago,27025
+Steele County,7.0,16,187171,bcns,steele,27147
+Carlton County,7.6,16,182100,bcns,carlton,27017
+Rice County,7.6,29,337563,bcns,rice,27131
+Dakota County,7.7,188,2212652,bcns,dakota,27037
+Isanti County,7.7,18,209648,bcns,isanti,27059
+Benton County,7.9,17,207379,bcns,benton,27009
+Beltrami County,8.0,18,231863,bcns,beltrami,27007
+Olmsted County,8.0,69,817642,bcns,olmsted,27109
+Anoka County,8.1,163,1836321,bcns,anoka,27003
+Morrison County,8.1,18,170762,bcns,morrison,27097
+Pine County,8.1,16,146859,bcns,pine,27115
+Clay County,8.2,27,328557,bcns,clay,27027
+Crow Wing County,8.2,35,335499,bcns,crow wing,27035
+Scott County,8.4,67,765161,bcns,scott,27139
+Otter Tail County,8.5,31,301396,bcns,otter tail,27111
+Nicollet County,8.8,16,171895,bcns,nicollet,27103
+Douglas County,9.0,21,196688,bcns,douglas,27041
+Sherburne County,9.5,44,496007,bcns,sherburne,27141
+Watonwan County,Data not presented,Data not presented,Data not presented,nhl,watonwan,27165
+Wilkin County,Data not presented,Data not presented,Data not presented,nhl,wilkin,27167
+Big Stone County,Data not presented,Data not presented,Data not presented,nhl,big stone,27011
+Murray County,Data not presented,Data not presented,Data not presented,nhl,murray,27101
+Kanabec County,Data not presented,Data not presented,Data not presented,nhl,kanabec,27065
+Jackson County,Data not presented,Data not presented,Data not presented,nhl,jackson,27063
+Lincoln County,Data not presented,Data not presented,Data not presented,nhl,lincoln,27081
+Cook County,Data not presented,Data not presented,Data not presented,nhl,cook,27031
+Grant County,Data not presented,Data not presented,Data not presented,nhl,grant,27051
+Mahnomen County,Data not presented,Data not presented,Data not presented,nhl,mahnomen,27087
+Lac qui Parle County,Data not presented,Data not presented,Data not presented,nhl,lac qui parle,27073
+Rock County,Data not presented,Data not presented,Data not presented,nhl,rock,27133
+Lake of the Woods County,Data not presented,Data not presented,Data not presented,nhl,lake of the woods,27077
+Kittson County,Data not presented,Data not presented,Data not presented,nhl,kittson,27069
+Stevens County,Data not presented,Data not presented,Data not presented,nhl,stevens,27149
+Red Lake County,Data not presented,Data not presented,Data not presented,nhl,red lake,27125
+Swift County,Data not presented,Data not presented,Data not presented,nhl,swift,27151
+Traverse County,Data not presented,Data not presented,Data not presented,nhl,traverse,27155
+Koochiching County,14.8,20,59734,nhl,koochiching,27071
+Freeborn County,15.6,37,153686,nhl,freeborn,27047
+Aitkin County,15.7,33,79615,nhl,aitkin,27001
+Hubbard County,17.4,33,108337,nhl,hubbard,27057
+Houston County,17.9,28,93756,nhl,houston,27055
+Cass County,18.0,49,153337,nhl,cass,27021
+Roseau County,18.2,22,76644,nhl,roseau,27135
+Nicollet County,18.4,38,171895,nhl,nicollet,27103
+Faribault County,18.4,20,69644,nhl,faribault,27043
+Becker County,18.5,47,176340,nhl,becker,27005
+Kandiyohi County,19.9,62,219414,nhl,kandiyohi,27067
+Meeker County,20.0,30,117101,nhl,meeker,27093
+Carver County,20.4,116,543365,nhl,carver,27019
+Blue Earth County,20.6,74,347381,nhl,blue earth,27013
+Douglas County,20.6,63,196688,nhl,douglas,27041
+Dodge County,20.7,24,104864,nhl,dodge,27039
+Chisago County,20.9,77,287299,nhl,chisago,27025
+Clay County,21.0,72,328557,nhl,clay,27027
+St. Louis County,21.4,308,1000318,nhl,st. louis,27137
+Pine County,21.5,46,146859,nhl,pine,27115
+Beltrami County,21.6,59,231863,nhl,beltrami,27007
+Le Sueur County,21.6,39,144883,nhl,le sueur,27079
+Polk County,21.6,47,154622,nhl,polk,27119
+Anoka County,21.7,454,1836321,nhl,anoka,27003
+Ramsey County,21.8,679,2725395,nhl,ramsey,27123
+Hennepin County,21.9,1581,6351175,nhl,hennepin,27053
+Lyon County,22.2,36,127675,nhl,lyon,27083
+Benton County,22.3,52,207379,nhl,benton,27009
+Scott County,22.3,169,765161,nhl,scott,27139
+Winona County,22.5,70,248791,nhl,winona,27169
+Mower County,22.5,60,200773,nhl,mower,27099
+Chippewa County,22.7,22,62162,nhl,chippewa,27023
+Isanti County,22.7,60,209648,nhl,isanti,27059
+Itasca County,23.0,90,225900,nhl,itasca,27061
+Otter Tail County,23.1,115,301396,nhl,otter tail,27111
+Dakota County,23.4,603,2212652,nhl,dakota,27037
+Crow Wing County,23.5,124,335499,nhl,crow wing,27035
+Olmsted County,23.7,229,817642,nhl,olmsted,27109
+Rice County,23.7,94,337563,nhl,rice,27131
+Waseca County,23.8,28,94689,nhl,waseca,27161
+Martin County,23.8,37,99465,nhl,martin,27091
+Cottonwood County,23.9,20,57451,nhl,cottonwood,27033
+Pennington County,23.9,23,69431,nhl,pennington,27113
+Stearns County,24.0,222,798097,nhl,stearns,27145
+Goodhue County,24.6,87,239256,nhl,goodhue,27049
+Morrison County,25.1,63,170762,nhl,morrison,27097
+Mille Lacs County,25.2,47,134493,nhl,mille lacs,27095
+Redwood County,25.4,28,76989,nhl,redwood,27127
+Marshall County,25.5,17,44843,nhl,marshall,27089
+Yellow Medicine County,25.6,19,47488,nhl,yellow medicine,27173
+Washington County,25.8,425,1362168,nhl,washington,27163
+Fillmore County,25.9,41,106768,nhl,fillmore,27045
+Todd County,25.9,50,127188,nhl,todd,27153
+Wabasha County,26.2,44,107635,nhl,wabasha,27157
+Wright County,26.6,204,726692,nhl,wright,27171
+Carlton County,26.6,65,182100,nhl,carlton,27017
+Steele County,26.6,69,187171,nhl,steele,27147
+Sherburne County,27.0,129,496007,nhl,sherburne,27141
+Sibley County,27.3,27,74806,nhl,sibley,27143
+Clearwater County,27.8,17,42833,nhl,clearwater,27029
+Lake County,28.0,26,54591,nhl,lake,27075
+Renville County,28.1,33,73149,nhl,renville,27129
+Pope County,28.3,26,56846,nhl,pope,27121
+McLeod County,29.5,77,184027,nhl,mcleod,27085
+Nobles County,30.6,39,110612,nhl,nobles,27105
+Brown County,31.3,61,129224,nhl,brown,27015
+Norman County,31.4,16,32062,nhl,norman,27107
+Pipestone County,33.8,23,46748,nhl,pipestone,27117
+Wadena County,34.6,35,70780,nhl,wadena,27159
+Jackson County,Data not presented,Data not presented,Data not presented,kid,jackson,27063
+Grant County,Data not presented,Data not presented,Data not presented,kid,grant,27051
+Cook County,Data not presented,Data not presented,Data not presented,kid,cook,27031
+Big Stone County,Data not presented,Data not presented,Data not presented,kid,big stone,27011
+Kittson County,Data not presented,Data not presented,Data not presented,kid,kittson,27069
+Lac qui Parle County,Data not presented,Data not presented,Data not presented,kid,lac qui parle,27073
+Lake of the Woods County,Data not presented,Data not presented,Data not presented,kid,lake of the woods,27077
+Lincoln County,Data not presented,Data not presented,Data not presented,kid,lincoln,27081
+Mahnomen County,Data not presented,Data not presented,Data not presented,kid,mahnomen,27087
+Murray County,Data not presented,Data not presented,Data not presented,kid,murray,27101
+Pipestone County,Data not presented,Data not presented,Data not presented,kid,pipestone,27117
+Norman County,Data not presented,Data not presented,Data not presented,kid,norman,27107
+Pope County,Data not presented,Data not presented,Data not presented,kid,pope,27121
+Red Lake County,Data not presented,Data not presented,Data not presented,kid,red lake,27125
+Wilkin County,Data not presented,Data not presented,Data not presented,kid,wilkin,27167
+Watonwan County,Data not presented,Data not presented,Data not presented,kid,watonwan,27165
+Yellow Medicine County,Data not presented,Data not presented,Data not presented,kid,yellow medicine,27173
+Stevens County,Data not presented,Data not presented,Data not presented,kid,stevens,27149
+Traverse County,Data not presented,Data not presented,Data not presented,kid,traverse,27155
+Carver County,12.8,83,543365,kid,carver,27019
+Douglas County,14.1,44,196688,kid,douglas,27041
+Hennepin County,14.9,1087,6351175,kid,hennepin,27053
+Aitkin County,14.9,24,79615,kid,aitkin,27001
+Freeborn County,15.3,36,153686,kid,freeborn,27047
+McLeod County,15.4,39,184027,kid,mcleod,27085
+Le Sueur County,15.5,30,144883,kid,le sueur,27079
+Morrison County,16.1,39,170762,kid,morrison,27097
+Steele County,16.4,42,187171,kid,steele,27147
+Scott County,16.6,133,765161,kid,scott,27139
+Cass County,16.9,41,153337,kid,cass,27021
+Sherburne County,16.9,91,496007,kid,sherburne,27141
+Ramsey County,17.2,542,2725395,kid,ramsey,27123
+Houston County,17.5,25,93756,kid,houston,27055
+Winona County,17.5,56,248791,kid,winona,27169
+Benton County,17.7,43,207379,kid,benton,27009
+Olmsted County,17.7,171,817642,kid,olmsted,27109
+Dakota County,17.8,473,2212652,kid,dakota,27037
+Washington County,17.8,303,1362168,kid,washington,27163
+Meeker County,17.9,30,117101,kid,meeker,27093
+Waseca County,17.9,22,94689,kid,waseca,27161
+Koochiching County,18.4,18,59734,kid,koochiching,27071
+Chippewa County,18.4,18,62162,kid,chippewa,27023
+Martin County,18.6,30,99465,kid,martin,27091
+Faribault County,19.5,20,69644,kid,faribault,27043
+Wright County,19.5,158,726692,kid,wright,27171
+Lyon County,19.6,31,127675,kid,lyon,27083
+Kanabec County,19.7,25,81368,kid,kanabec,27065
+Anoka County,19.8,441,1836321,kid,anoka,27003
+Otter Tail County,19.9,97,301396,kid,otter tail,27111
+Chisago County,20.0,75,287299,kid,chisago,27025
+Carlton County,21.0,52,182100,kid,carlton,27017
+Nobles County,21.1,27,110612,kid,nobles,27105
+Brown County,21.2,39,129224,kid,brown,27015
+St. Louis County,21.2,289,1000318,kid,st. louis,27137
+Isanti County,21.3,57,209648,kid,isanti,27059
+Rice County,21.5,84,337563,kid,rice,27131
+Clay County,21.6,73,328557,kid,clay,27027
+Kandiyohi County,21.7,64,219414,kid,kandiyohi,27067
+Lake County,21.7,19,54591,kid,lake,27075
+Hubbard County,21.9,36,108337,kid,hubbard,27057
+Redwood County,22.0,27,76989,kid,redwood,27127
+Stearns County,22.0,193,798097,kid,stearns,27145
+Pennington County,22.3,20,69431,kid,pennington,27113
+Goodhue County,22.6,76,239256,kid,goodhue,27049
+Sibley County,22.9,22,74806,kid,sibley,27143
+Becker County,23.0,54,176340,kid,becker,27005
+Mower County,23.0,58,200773,kid,mower,27099
+Crow Wing County,23.3,115,335499,kid,crow wing,27035
+Wadena County,23.3,25,70780,kid,wadena,27159
+Swift County,23.6,16,48999,kid,swift,27151
+Polk County,23.6,47,154622,kid,polk,27119
+Blue Earth County,23.7,83,347381,kid,blue earth,27013
+Nicollet County,24.0,49,171895,kid,nicollet,27103
+Todd County,24.1,41,127188,kid,todd,27153
+Dodge County,24.4,31,104864,kid,dodge,27039
+Roseau County,24.4,23,76644,kid,roseau,27135
+Pine County,24.7,53,146859,kid,pine,27115
+Fillmore County,24.9,39,106768,kid,fillmore,27045
+Beltrami County,25.6,68,231863,kid,beltrami,27007
+Mille Lacs County,25.8,44,134493,kid,mille lacs,27095
+Itasca County,27.2,96,225900,kid,itasca,27061
+Cottonwood County,27.8,23,57451,kid,cottonwood,27033
+Rock County,28.2,19,48290,kid,rock,27133
+Clearwater County,28.3,17,42833,kid,clearwater,27029
+Marshall County,28.3,18,44843,kid,marshall,27089
+Wabasha County,29.3,45,107635,kid,wabasha,27157
+Renville County,39.3,38,73149,kid,renville,27129
+Aitkin County,Data not presented,Data not presented,Data not presented,ovfemale,aitkin,27001
+Becker County,Data not presented,Data not presented,Data not presented,ovfemale,becker,27005
+Beltrami County,Data not presented,Data not presented,Data not presented,ovfemale,beltrami,27007
+Benton County,Data not presented,Data not presented,Data not presented,ovfemale,benton,27009
+Big Stone County,Data not presented,Data not presented,Data not presented,ovfemale,big stone,27011
+Brown County,Data not presented,Data not presented,Data not presented,ovfemale,brown,27015
+Carlton County,Data not presented,Data not presented,Data not presented,ovfemale,carlton,27017
+Cass County,Data not presented,Data not presented,Data not presented,ovfemale,cass,27021
+Chippewa County,Data not presented,Data not presented,Data not presented,ovfemale,chippewa,27023
+Clearwater County,Data not presented,Data not presented,Data not presented,ovfemale,clearwater,27029
+Cook County,Data not presented,Data not presented,Data not presented,ovfemale,cook,27031
+Cottonwood County,Data not presented,Data not presented,Data not presented,ovfemale,cottonwood,27033
+Dodge County,Data not presented,Data not presented,Data not presented,ovfemale,dodge,27039
+Douglas County,Data not presented,Data not presented,Data not presented,ovfemale,douglas,27041
+Faribault County,Data not presented,Data not presented,Data not presented,ovfemale,faribault,27043
+Fillmore County,Data not presented,Data not presented,Data not presented,ovfemale,fillmore,27045
+Grant County,Data not presented,Data not presented,Data not presented,ovfemale,grant,27051
+Houston County,Data not presented,Data not presented,Data not presented,ovfemale,houston,27055
+Hubbard County,Data not presented,Data not presented,Data not presented,ovfemale,hubbard,27057
+Isanti County,Data not presented,Data not presented,Data not presented,ovfemale,isanti,27059
+Jackson County,Data not presented,Data not presented,Data not presented,ovfemale,jackson,27063
+Kanabec County,Data not presented,Data not presented,Data not presented,ovfemale,kanabec,27065
+Kittson County,Data not presented,Data not presented,Data not presented,ovfemale,kittson,27069
+Koochiching County,Data not presented,Data not presented,Data not presented,ovfemale,koochiching,27071
+Lac qui Parle County,Data not presented,Data not presented,Data not presented,ovfemale,lac qui parle,27073
+Lake County,Data not presented,Data not presented,Data not presented,ovfemale,lake,27075
+Lake of the Woods County,Data not presented,Data not presented,Data not presented,ovfemale,lake of the woods,27077
+Le Sueur County,Data not presented,Data not presented,Data not presented,ovfemale,le sueur,27079
+Lincoln County,Data not presented,Data not presented,Data not presented,ovfemale,lincoln,27081
+Lyon County,Data not presented,Data not presented,Data not presented,ovfemale,lyon,27083
+McLeod County,Data not presented,Data not presented,Data not presented,ovfemale,mcleod,27085
+Mahnomen County,Data not presented,Data not presented,Data not presented,ovfemale,mahnomen,27087
+Marshall County,Data not presented,Data not presented,Data not presented,ovfemale,marshall,27089
+Martin County,Data not presented,Data not presented,Data not presented,ovfemale,martin,27091
+Meeker County,Data not presented,Data not presented,Data not presented,ovfemale,meeker,27093
+Mille Lacs County,Data not presented,Data not presented,Data not presented,ovfemale,mille lacs,27095
+Mower County,Data not presented,Data not presented,Data not presented,ovfemale,mower,27099
+Murray County,Data not presented,Data not presented,Data not presented,ovfemale,murray,27101
+Nicollet County,Data not presented,Data not presented,Data not presented,ovfemale,nicollet,27103
+Nobles County,Data not presented,Data not presented,Data not presented,ovfemale,nobles,27105
+Norman County,Data not presented,Data not presented,Data not presented,ovfemale,norman,27107
+Pennington County,Data not presented,Data not presented,Data not presented,ovfemale,pennington,27113
+Pine County,Data not presented,Data not presented,Data not presented,ovfemale,pine,27115
+Pipestone County,Data not presented,Data not presented,Data not presented,ovfemale,pipestone,27117
+Polk County,Data not presented,Data not presented,Data not presented,ovfemale,polk,27119
+Pope County,Data not presented,Data not presented,Data not presented,ovfemale,pope,27121
+Red Lake County,Data not presented,Data not presented,Data not presented,ovfemale,red lake,27125
+Redwood County,Data not presented,Data not presented,Data not presented,ovfemale,redwood,27127
+Renville County,Data not presented,Data not presented,Data not presented,ovfemale,renville,27129
+Rock County,Data not presented,Data not presented,Data not presented,ovfemale,rock,27133
+Roseau County,Data not presented,Data not presented,Data not presented,ovfemale,roseau,27135
+Sibley County,Data not presented,Data not presented,Data not presented,ovfemale,sibley,27143
+Steele County,Data not presented,Data not presented,Data not presented,ovfemale,steele,27147
+Stevens County,Data not presented,Data not presented,Data not presented,ovfemale,stevens,27149
+Swift County,Data not presented,Data not presented,Data not presented,ovfemale,swift,27151
+Todd County,Data not presented,Data not presented,Data not presented,ovfemale,todd,27153
+Traverse County,Data not presented,Data not presented,Data not presented,ovfemale,traverse,27155
+Wabasha County,Data not presented,Data not presented,Data not presented,ovfemale,wabasha,27157
+Wadena County,Data not presented,Data not presented,Data not presented,ovfemale,wadena,27159
+Waseca County,Data not presented,Data not presented,Data not presented,ovfemale,waseca,27161
+Watonwan County,Data not presented,Data not presented,Data not presented,ovfemale,watonwan,27165
+Wilkin County,Data not presented,Data not presented,Data not presented,ovfemale,wilkin,27167
+Yellow Medicine County,Data not presented,Data not presented,Data not presented,ovfemale,yellow medicine,27173
+Carver County,6.1,20,271243,ovfemale,carver,27019
+Wright County,6.7,25,356843,ovfemale,wright,27171
+Anoka County,7.8,85,912459,ovfemale,anoka,27003
+Dakota County,8.0,108,1114519,ovfemale,dakota,27037
+Rice County,8.0,18,163567,ovfemale,rice,27131
+Itasca County,8.1,16,111069,ovfemale,itasca,27061
+Scott County,8.4,35,381276,ovfemale,scott,27139
+Goodhue County,8.5,17,119403,ovfemale,goodhue,27049
+Hennepin County,8.7,324,3191647,ovfemale,hennepin,27053
+Washington County,8.8,77,684454,ovfemale,washington,27163
+Ramsey County,9.3,144,1387463,ovfemale,ramsey,27123
+Olmsted County,10.0,52,417031,ovfemale,olmsted,27109
+Stearns County,10.0,48,394057,ovfemale,stearns,27145
+Blue Earth County,10.5,20,172122,ovfemale,blue earth,27013
+Chisago County,10.7,18,138071,ovfemale,chisago,27025
+Sherburne County,10.8,27,240097,ovfemale,sherburne,27141
+Crow Wing County,11.2,29,167556,ovfemale,crow wing,27035
+Kandiyohi County,11.4,17,108551,ovfemale,kandiyohi,27067
+Clay County,11.5,21,164876,ovfemale,clay,27027
+Winona County,11.8,18,124699,ovfemale,winona,27169
+St. Louis County,11.9,82,496859,ovfemale,st. louis,27137
+Otter Tail County,13.5,30,148746,ovfemale,otter tail,27111
+Freeborn County,13.7,16,76481,ovfemale,freeborn,27047
+Morrison County,14.7,17,83866,ovfemale,morrison,27097
+Benton County,Data not presented,Data not presented,Data not presented,stom,benton,27009
+Cottonwood County,Data not presented,Data not presented,Data not presented,stom,cottonwood,27033
+Clearwater County,Data not presented,Data not presented,Data not presented,stom,clearwater,27029
+Dodge County,Data not presented,Data not presented,Data not presented,stom,dodge,27039
+Isanti County,Data not presented,Data not presented,Data not presented,stom,isanti,27059
+Big Stone County,Data not presented,Data not presented,Data not presented,stom,big stone,27011
+Carlton County,Data not presented,Data not presented,Data not presented,stom,carlton,27017
+Douglas County,Data not presented,Data not presented,Data not presented,stom,douglas,27041
+Cook County,Data not presented,Data not presented,Data not presented,stom,cook,27031
+Kandiyohi County,Data not presented,Data not presented,Data not presented,stom,kandiyohi,27067
+Chippewa County,Data not presented,Data not presented,Data not presented,stom,chippewa,27023
+Aitkin County,Data not presented,Data not presented,Data not presented,stom,aitkin,27001
+Brown County,Data not presented,Data not presented,Data not presented,stom,brown,27015
+Grant County,Data not presented,Data not presented,Data not presented,stom,grant,27051
+Lyon County,Data not presented,Data not presented,Data not presented,stom,lyon,27083
+Houston County,Data not presented,Data not presented,Data not presented,stom,houston,27055
+Lincoln County,Data not presented,Data not presented,Data not presented,stom,lincoln,27081
+Koochiching County,Data not presented,Data not presented,Data not presented,stom,koochiching,27071
+Le Sueur County,Data not presented,Data not presented,Data not presented,stom,le sueur,27079
+Mahnomen County,Data not presented,Data not presented,Data not presented,stom,mahnomen,27087
+Faribault County,Data not presented,Data not presented,Data not presented,stom,faribault,27043
+Lake County,Data not presented,Data not presented,Data not presented,stom,lake,27075
+Fillmore County,Data not presented,Data not presented,Data not presented,stom,fillmore,27045
+Lac qui Parle County,Data not presented,Data not presented,Data not presented,stom,lac qui parle,27073
+Murray County,Data not presented,Data not presented,Data not presented,stom,murray,27101
+Pipestone County,Data not presented,Data not presented,Data not presented,stom,pipestone,27117
+Norman County,Data not presented,Data not presented,Data not presented,stom,norman,27107
+Pennington County,Data not presented,Data not presented,Data not presented,stom,pennington,27113
+Nicollet County,Data not presented,Data not presented,Data not presented,stom,nicollet,27103
+Stevens County,Data not presented,Data not presented,Data not presented,stom,stevens,27149
+Hubbard County,Data not presented,Data not presented,Data not presented,stom,hubbard,27057
+Jackson County,Data not presented,Data not presented,Data not presented,stom,jackson,27063
+Kanabec County,Data not presented,Data not presented,Data not presented,stom,kanabec,27065
+Marshall County,Data not presented,Data not presented,Data not presented,stom,marshall,27089
+Martin County,Data not presented,Data not presented,Data not presented,stom,martin,27091
+Rock County,Data not presented,Data not presented,Data not presented,stom,rock,27133
+Red Lake County,Data not presented,Data not presented,Data not presented,stom,red lake,27125
+Renville County,Data not presented,Data not presented,Data not presented,stom,renville,27129
+Wabasha County,Data not presented,Data not presented,Data not presented,stom,wabasha,27157
+Sibley County,Data not presented,Data not presented,Data not presented,stom,sibley,27143
+Yellow Medicine County,Data not presented,Data not presented,Data not presented,stom,yellow medicine,27173
+Lake of the Woods County,Data not presented,Data not presented,Data not presented,stom,lake of the woods,27077
+Roseau County,Data not presented,Data not presented,Data not presented,stom,roseau,27135
+Wilkin County,Data not presented,Data not presented,Data not presented,stom,wilkin,27167
+Redwood County,Data not presented,Data not presented,Data not presented,stom,redwood,27127
+Todd County,Data not presented,Data not presented,Data not presented,stom,todd,27153
+Watonwan County,Data not presented,Data not presented,Data not presented,stom,watonwan,27165
+Meeker County,Data not presented,Data not presented,Data not presented,stom,meeker,27093
+Nobles County,Data not presented,Data not presented,Data not presented,stom,nobles,27105
+Steele County,Data not presented,Data not presented,Data not presented,stom,steele,27147
+Waseca County,Data not presented,Data not presented,Data not presented,stom,waseca,27161
+Wadena County,Data not presented,Data not presented,Data not presented,stom,wadena,27159
+Kittson County,Data not presented,Data not presented,Data not presented,stom,kittson,27069
+Pine County,Data not presented,Data not presented,Data not presented,stom,pine,27115
+Swift County,Data not presented,Data not presented,Data not presented,stom,swift,27151
+Mille Lacs County,Data not presented,Data not presented,Data not presented,stom,mille lacs,27095
+Polk County,Data not presented,Data not presented,Data not presented,stom,polk,27119
+Traverse County,Data not presented,Data not presented,Data not presented,stom,traverse,27155
+Pope County,Data not presented,Data not presented,Data not presented,stom,pope,27121
+Stearns County,4.2,39,798097,stom,stearns,27145
+Rice County,4.3,17,337563,stom,rice,27131
+Blue Earth County,4.8,18,347381,stom,blue earth,27013
+Itasca County,5.0,16,225900,stom,itasca,27061
+Cass County,5.3,17,153337,stom,cass,27021
+Becker County,5.4,16,176340,stom,becker,27005
+Goodhue County,5.4,20,239256,stom,goodhue,27049
+Wright County,5.7,46,726692,stom,wright,27171
+St. Louis County,5.8,81,1000318,stom,st. louis,27137
+Olmsted County,6.0,60,817642,stom,olmsted,27109
+Hennepin County,6.2,448,6351175,stom,hennepin,27053
+Winona County,6.4,19,248791,stom,winona,27169
+Chisago County,6.6,25,287299,stom,chisago,27025
+Clay County,6.6,23,328557,stom,clay,27027
+Washington County,6.7,111,1362168,stom,washington,27163
+Scott County,6.7,56,765161,stom,scott,27139
+Ramsey County,6.8,211,2725395,stom,ramsey,27123
+Dakota County,6.8,173,2212652,stom,dakota,27037
+Carver County,6.9,43,543365,stom,carver,27019
+Otter Tail County,7.2,36,301396,stom,otter tail,27111
+Sherburne County,7.3,37,496007,stom,sherburne,27141
+Anoka County,7.4,155,1836321,stom,anoka,27003
+Morrison County,7.6,19,170762,stom,morrison,27097
+Freeborn County,7.7,20,153686,stom,freeborn,27047
+Mower County,7.9,18,200773,stom,mower,27099
+Crow Wing County,8.1,45,335499,stom,crow wing,27035
+Beltrami County,8.7,22,231863,stom,beltrami,27007
+McLeod County,8.9,23,184027,stom,mcleod,27085

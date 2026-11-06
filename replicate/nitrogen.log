@@ -1,0 +1,176 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\1-replicate-results\nitrogen.log
+  log type:  text
+ opened on:  16 Sep 2026, 20:43:50
+
+. 
+. foreach y in meanfarm_sqmi meannon_sqmi mean_n{
+  2. qui: reg `y' c.timevar , vce(cluster fips) 
+  3. 
+. margins , eydx(timevar)
+  4. }
+
+Average marginal effects                                   Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+ey/dx wrt:  timevar
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      ey/dx   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |    .008662   .0030043     2.88   0.005     .0026897    .0146343
+------------------------------------------------------------------------------
+
+Average marginal effects                                   Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+ey/dx wrt:  timevar
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      ey/dx   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |   .1423809   .0152115     9.36   0.000     .1121415    .1726203
+------------------------------------------------------------------------------
+
+Average marginal effects                                   Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+ey/dx wrt:  timevar
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      ey/dx   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |   .0107021   .0029539     3.62   0.000     .0048299    .0165743
+------------------------------------------------------------------------------
+
+. 
+. foreach y in meanfarm_sqmi meannon_sqmi mean_n{
+  2. qui: reg `y' i.timevar , vce(cluster fips) 
+  3. 
+. margins timevar
+  4. marginsplot, scheme(tab3)
+  5. }
+
+Adjusted predictions                                       Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |     Margin   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |
+          1  |   9302.191   611.3371    15.22   0.000     8086.893    10517.49
+          2  |   9588.628   645.2089    14.86   0.000     8305.995    10871.26
+          3  |   10031.43   690.1495    14.54   0.000     8659.453     11403.4
+          4  |   9226.114   632.4498    14.59   0.000     7968.846    10483.38
+          5  |   10006.66   690.1501    14.50   0.000     8634.691    11378.64
+          6  |   9652.764   668.8727    14.43   0.000     8323.089    10982.44
+          7  |   10051.18   715.2039    14.05   0.000     8629.399    11472.96
+------------------------------------------------------------------------------
+
+Variables that uniquely identify margins: timevar
+
+Adjusted predictions                                       Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |     Margin   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |
+          1  |    91.5682   42.74885     2.14   0.035     6.586295    176.5501
+          2  |   143.8904   65.75817     2.19   0.031     13.16744    274.6133
+          3  |   153.2989   68.78705     2.23   0.028     16.55474     290.043
+          4  |   120.1631   52.58893     2.28   0.025     15.61979    224.7064
+          5  |   203.5478   86.87508     2.34   0.021     30.84588    376.2498
+          6  |   171.1886   71.60013     2.39   0.019     28.85225    313.5249
+          7  |    257.269   106.1336     2.42   0.017     46.28238    468.2556
+------------------------------------------------------------------------------
+
+Variables that uniquely identify margins: timevar
+
+Adjusted predictions                                       Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |     Margin   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |
+          1  |   9393.759   604.3561    15.54   0.000     8192.339    10595.18
+          2  |   9732.519   635.1713    15.32   0.000      8469.84     10995.2
+          3  |   10184.72   678.8492    15.00   0.000     8835.216    11534.23
+          4  |   9346.278   623.4013    14.99   0.000     8106.997    10585.56
+          5  |   10210.21   677.3436    15.07   0.000     8863.697    11556.73
+          6  |   9823.952   657.6093    14.94   0.000     8516.668    11131.24
+          7  |   10308.45   700.8108    14.71   0.000     8915.281    11701.61
+------------------------------------------------------------------------------
+
+Variables that uniquely identify margins: timevar
+
+. 
+. foreach y in meanfarm_sqmi meannon_sqmi mean_n{
+  2. qui: areg `y' c.timevar , vce(cluster fips) absorb(fips)
+  3. 
+. margins , eydx(timevar)
+  4. }
+
+Average marginal effects                                   Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+ey/dx wrt:  timevar
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      ey/dx   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |    .008662   .0034594     2.50   0.014      .001785     .015539
+------------------------------------------------------------------------------
+
+Average marginal effects                                   Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+ey/dx wrt:  timevar
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      ey/dx   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |   .1423809   .0663159     2.15   0.035     .0105493    .2742125
+------------------------------------------------------------------------------
+
+Average marginal effects                                   Number of obs = 609
+Model VCE: Robust
+
+Expression: Linear prediction, predict()
+ey/dx wrt:  timevar
+
+------------------------------------------------------------------------------
+             |            Delta-method
+             |      ey/dx   std. err.      t    P>|t|     [95% conf. interval]
+-------------+----------------------------------------------------------------
+     timevar |   .0107021   .0034065     3.14   0.002     .0039302     .017474
+------------------------------------------------------------------------------
+
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\jsemprini\OneDrive - Des Moines University\2-External-Collab\10-FRDC\2-Nitrogen\1-replicate-results\nitrogen.log
+  log type:  text
+ closed on:  16 Sep 2026, 20:43:54
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
